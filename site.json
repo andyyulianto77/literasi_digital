@@ -390,16 +390,18 @@
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
       "order": 6,
       "parent": null,
-      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy",
-      "description": "",
+      "title": "Mengenal ChatGPT &amp; AI untuk Verifikasi",
+      "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747115347,
-        "images": [],
-        "videos": [],
+        "updated": 1747124066,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 2
       }
     },
     {
