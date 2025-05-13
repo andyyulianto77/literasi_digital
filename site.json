@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747129051,
+      "updated": 1747129099,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,9 +35,9 @@
       "static": {}
     },
     "theme": {
-      "element": "polaris-flex-theme",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
-      "name": "Polaris - Flex",
+      "element": "polaris-invent-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
