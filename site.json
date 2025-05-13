@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747107077,
+      "updated": 1747115351,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747107071,
+        "updated": 1747115339,
         "published": true,
         "locked": false,
         "status": "",
@@ -86,13 +86,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 7,
+      "order": 5,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747107076,
+        "updated": 1747115346,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747107072,
+        "updated": 1747115340,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747107073,
+        "updated": 1747115341,
         "images": {},
         "videos": {},
         "published": true,
@@ -155,17 +155,17 @@
       }
     },
     {
-      "id": "item-f961854f-24ac-46f2-ad17-26e62a1e04ec",
+      "id": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
       "indent": 0,
-      "location": "pages/item-f961854f-24ac-46f2-ad17-26e62a1e04ec/index.html",
-      "slug": "welcome/page/literasi-digital-copy-1",
+      "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
+      "slug": "literasi-digital-copy-copy-copy",
       "order": 3,
       "parent": null,
-      "title": "Literasi Digital Copy",
-      "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "title": "Topik 1: Membaca Lateral: Kunci Mengungkap Fakta di Tengah Arus Hoaks",
+      "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
-        "created": 1747104963,
-        "updated": 1747107073,
+        "created": 1747106992,
+        "updated": 1747115342,
         "images": {},
         "videos": {},
         "published": true,
@@ -176,36 +176,139 @@
       }
     },
     {
-      "id": "item-08b636a5-78f3-482c-8e44-89d4e01732e4",
-      "indent": 0,
-      "location": "pages/item-08b636a5-78f3-482c-8e44-89d4e01732e4/index.html",
-      "slug": "page",
-      "order": 5,
-      "parent": null,
-      "title": "Page",
-      "description": "",
+      "id": "item-67442a03-f879-49d5-987f-df11d0eca5a4",
+      "indent": 1,
+      "location": "pages/item-67442a03-f879-49d5-987f-df11d0eca5a4/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-1",
+      "order": 0,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "title": "Pengantar Membaca Lateral",
+      "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
-        "created": 1747100186,
-        "updated": 1747107075,
-        "images": [],
-        "videos": [],
+        "created": 1747108329,
+        "updated": 1747115342,
+        "images": {},
+        "videos": {},
         "published": true,
+        "hideInMenu": false,
         "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/membaca-lateral.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/membaca-lateral.png",
+            "url": "files/membaca-lateral.png",
+            "type": "image/png",
+            "name": "membaca-lateral.png",
+            "size": 1757579
+          }
+        ],
         "status": ""
       }
     },
     {
-      "id": "item-f31bc953-d418-435e-b20c-bd869387f82a",
+      "id": "item-449396cc-7e03-46cf-a8c6-aeab2d1035a7",
+      "indent": 1,
+      "location": "pages/item-449396cc-7e03-46cf-a8c6-aeab2d1035a7/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy",
+      "order": 1,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "title": "Langkah Keluar dari Situs Asli",
+      "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
+      "metadata": {
+        "created": 1747107835,
+        "updated": 1747115343,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 2,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/keluar-lateral.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/keluar-lateral.png",
+            "url": "files/keluar-lateral.png",
+            "type": "image/png",
+            "name": "keluar-lateral.png",
+            "size": 1761867
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-11_34_14-infografis-membaca-lateal.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-11_34_14-infografis-membaca-lateal.png",
+            "url": "files/ChatGPT-Image-May-13,-2025,-11_34_14-infografis-membaca-lateal.png",
+            "type": "image/png",
+            "name": "ChatGPT-Image-May-13,-2025,-11_34_14-infografis-membaca-lateal.png",
+            "size": 1874907
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-d2b73300-50c4-4554-a801-0f748cb1b468",
       "indent": 0,
-      "location": "pages/item-f31bc953-d418-435e-b20c-bd869387f82a/index.html",
-      "slug": "literasi-digital-copy-copy",
+      "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-2",
+      "order": 2,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "title": "Langkah: Buka beberapa sumber pembanding",
+      "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "metadata": {
+        "created": 1747109049,
+        "updated": 1747115409,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-12_49_31-PM-sumber-pembanding.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-12_49_31-PM-sumber-pembanding.png",
+            "url": "files/ChatGPT-Image-May-13,-2025,-12_49_31-PM-sumber-pembanding.png",
+            "type": "image/png",
+            "name": "ChatGPT-Image-May-13,-2025,-12_49_31-PM-sumber-pembanding.png",
+            "size": 2106269
+          }
+        ]
+      }
+    },
+    {
+      "id": "item-4fefe3fd-0370-4617-867b-4fd112c957d8",
+      "indent": 0,
+      "location": "pages/item-4fefe3fd-0370-4617-867b-4fd112c957d8/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-3",
+      "order": 3,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "title": "Bandingkan Fakta, Tanggal, dan Kutipan",
+      "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
+      "metadata": {
+        "created": 1747109817,
+        "updated": 1747115591,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "indent": 0,
+      "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1",
       "order": 4,
       "parent": null,
-      "title": "Literasi Digital Copy Copy",
+      "title": "Literasi Digital Copy Copy Copy Copy",
       "description": "",
       "metadata": {
-        "created": 1747106983,
-        "updated": 1747107074,
+        "created": 1747108200,
+        "updated": 1747115345,
         "images": [],
         "videos": [],
         "published": true,
@@ -214,17 +317,112 @@
       }
     },
     {
-      "id": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "id": "item-4090039b-0e6f-499a-9b98-95658250ab65",
       "indent": 0,
-      "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
-      "slug": "literasi-digital-copy-copy-copy",
-      "order": 6,
+      "location": "pages/item-4090039b-0e6f-499a-9b98-95658250ab65/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy",
+      "order": 8,
       "parent": null,
-      "title": "Literasi Digital Copy Copy Copy",
+      "title": "Literasi Digital Copy Copy Copy Copy Copy",
       "description": "",
       "metadata": {
-        "created": 1747106992,
-        "updated": 1747107076,
+        "created": 1747107842,
+        "updated": 1747115348,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-873f100d-8769-4f3c-9943-56ee84e8cf3b",
+      "indent": 0,
+      "location": "pages/item-873f100d-8769-4f3c-9943-56ee84e8cf3b/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy",
+      "order": 10,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747109033,
+        "updated": 1747115350,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-aca9b13d-0706-4991-ade0-9ae1673f8d3b",
+      "indent": 0,
+      "location": "pages/item-aca9b13d-0706-4991-ade0-9ae1673f8d3b/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-1",
+      "order": 7,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747114313,
+        "updated": 1747115348,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-46f4686a-17bc-4400-8f57-a756c53f1803",
+      "indent": 0,
+      "location": "pages/item-46f4686a-17bc-4400-8f57-a756c53f1803/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
+      "order": 6,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747115237,
+        "updated": 1747115347,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-75d97981-c4bc-40b8-975e-6f88f52a4e2f",
+      "indent": 0,
+      "location": "pages/item-75d97981-c4bc-40b8-975e-6f88f52a4e2f/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-copy",
+      "order": 9,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747115246,
+        "updated": 1747115349,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-693a5d37-c830-454f-b28a-e19736c775a3",
+      "indent": 0,
+      "location": "pages/item-693a5d37-c830-454f-b28a-e19736c775a3/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-copy-copy",
+      "order": 11,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747115255,
+        "updated": 1747115350,
         "images": [],
         "videos": [],
         "published": true,
