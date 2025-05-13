@@ -243,7 +243,17 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/keluar-lateral.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/keluar-lateral.png",
+            "url": "files/keluar-lateral.png",
+            "type": "image/png",
+            "name": "keluar-lateral.png",
+            "size": 1761867
+          }
+        ]
       }
     },
     {
