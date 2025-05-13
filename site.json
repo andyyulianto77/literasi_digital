@@ -244,6 +244,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-bc6235be-09e8-42f2-90bd-cea7f6ea8a29",
+      "indent": 0,
+      "location": "pages/item-bc6235be-09e8-42f2-90bd-cea7f6ea8a29/index.html",
+      "slug": "topik-1:-membaca-lateral:-kunci-mengungkap-fakta-di-tengah-arus-hoaks-copy",
+      "order": 4,
+      "parent": null,
+      "title": "Topik 1: Membaca Lateral: Kunci Mengungkap Fakta di Tengah Arus Hoaks Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747107852,
+        "updated": 1747107852,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
