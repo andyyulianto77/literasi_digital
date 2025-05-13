@@ -249,7 +249,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/membaca-lateral.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/membaca-lateral.png",
+            "url": "files/membaca-lateral.png",
+            "type": "image/png",
+            "name": "membaca-lateral.png",
+            "size": 1757579
+          }
+        ]
       }
     },
     {
