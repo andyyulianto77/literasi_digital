@@ -1,6 +1,6 @@
 {
   "id": "e2af29d8-a753-47a1-98ad-d28eaf3277be",
-  "title": "situs ku ooo",
+  "title": "Belajar Literasi Digital",
   "author": "",
   "description": "own course",
   "license": "by-sa",
@@ -35,9 +35,9 @@
       "static": {}
     },
     "theme": {
-      "element": "custom-tutorial-theme",
+      "element": "custom-hax-polaris-theme",
       "path": "./custom/build/custom.es6.js",
-      "name": "CustomTutorialTheme",
+      "name": "Polaris Theme",
       "variables": {
         "image": "",
         "imageAlt": null,
@@ -287,7 +287,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747123367,
+        "updated": 1747124307,
         "images": {},
         "videos": {},
         "published": true,
