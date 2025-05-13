@@ -294,7 +294,17 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-01_06_58-PM-tanggal.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-01_06_58-PM-tanggal.png",
+            "url": "files/ChatGPT-Image-May-13,-2025,-01_06_58-PM-tanggal.png",
+            "type": "image/png",
+            "name": "ChatGPT-Image-May-13,-2025,-01_06_58-PM-tanggal.png",
+            "size": 324760
+          }
+        ]
       }
     },
     {
