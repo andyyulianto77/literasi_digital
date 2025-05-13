@@ -345,10 +345,10 @@
       "order": 4,
       "parent": null,
       "title": "Topik 2: Jurus Jitu Menggunakan Mesin Pencari",
-      "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747144144,
+        "updated": 1747174539,
         "images": {},
         "videos": {},
         "published": true,
@@ -359,15 +359,6 @@
           "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
           "name": "Polaris - Invent",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "variables": {
-            "image": "",
-            "imageAlt": null,
-            "imageLink": null,
-            "hexCode": null,
-            "cssVariable": "--simple-colors-default-theme-light-green-7",
-            "icon": "av:airplay"
-          },
-          "regions": {},
           "key": "polaris-invent-theme"
         },
         "hideInMenu": false,
