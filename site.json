@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747135434,
+      "updated": 1747142739,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -36,15 +36,16 @@
     },
     "theme": {
       "element": "polaris-invent-theme",
-      "path": "./custom/build/custom.es6.js",
-      "name": "Polaris Theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": null,
         "imageLink": null,
         "hexCode": null,
-        "cssVariable": "--simple-colors-default-theme-null-7",
-        "icon": null
+        "cssVariable": "--simple-colors-default-theme-light-green-7",
+        "icon": "av:airplay"
       },
       "regions": {}
     },
@@ -364,6 +365,27 @@
         "published": true,
         "locked": false,
         "status": ""
+      }
+    },
+    {
+      "id": "item-aca9b13d-0706-4991-ade0-9ae1673f8d3b",
+      "indent": 0,
+      "location": "pages/item-aca9b13d-0706-4991-ade0-9ae1673f8d3b/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-1",
+      "order": 4,
+      "parent": null,
+      "title": "Topik 2: Kuasai Mesin Pencari untuk Riset Digital Andal",
+      "description": "Apa Itu Literasi Digital?\n\nsasd\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "metadata": {
+        "created": 1747114313,
+        "updated": 1747135361,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
