@@ -348,21 +348,22 @@
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747176315,
+        "updated": 1747176717,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "theme": {
-          "element": "polaris-invent-theme",
-          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-          "name": "Polaris - Invent",
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "polaris-invent-theme"
+          "key": "clean-two"
         },
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "accentColor": "teal"
       }
     },
     {
