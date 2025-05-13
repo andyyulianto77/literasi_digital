@@ -427,15 +427,26 @@
       "indent": 0,
       "location": "pages/item-429f9123-841b-4820-9cc7-b7d7e77a9f8e/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-1/langkah-menggunakan-kata-kunci-copy",
-      "order": 1,
+      "order": 2,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
-      "title": "Langkah Menggunakan Kata Kunci Copy",
-      "description": "",
+      "title": "Langkah Manfaatkan Operator Pencarian",
+      "description": "Operator Pencarian\nPenggunaan tanda kutip, simbol minus, dan pencarian dalam situs tertentu (site:) juga merupakan cara cerdas menyaring hasil. Dengan kata lain, mesin pencari bukan hanya alat, tetap",
       "metadata": {
         "created": 1747177495,
-        "updated": 1747177495,
-        "images": [],
-        "videos": []
+        "updated": 1747177949,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {
