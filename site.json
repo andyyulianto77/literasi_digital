@@ -410,6 +410,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-758e9457-fe3a-4176-a1d1-8f558486204d",
+      "indent": 0,
+      "location": "pages/item-758e9457-fe3a-4176-a1d1-8f558486204d/index.html",
+      "slug": "literasi-digital-copy-1",
+      "order": 6,
+      "parent": null,
+      "title": "Literasi Digital Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747174492,
+        "updated": 1747174492,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
