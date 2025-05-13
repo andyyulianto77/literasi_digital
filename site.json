@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747124540,
+      "updated": 1747135434,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747124525,
+        "updated": 1747135295,
         "published": true,
         "locked": false,
         "status": "",
@@ -92,7 +92,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747124539,
+        "updated": 1747135426,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747124526,
+        "updated": 1747135302,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747124527,
+        "updated": 1747135307,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747124528,
+        "updated": 1747135316,
         "images": {},
         "videos": {},
         "published": true,
@@ -186,7 +186,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747124529,
+        "updated": 1747135324,
         "images": {},
         "videos": {},
         "published": true,
@@ -217,7 +217,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747124530,
+        "updated": 1747135329,
         "images": {},
         "videos": {},
         "published": true,
@@ -256,7 +256,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747124531,
+        "updated": 1747135335,
         "images": {},
         "videos": {},
         "published": true,
@@ -287,7 +287,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747124532,
+        "updated": 1747135344,
         "images": {},
         "videos": {},
         "published": true,
@@ -309,7 +309,7 @@
     },
     {
       "id": "item-46f4686a-17bc-4400-8f57-a756c53f1803",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-46f4686a-17bc-4400-8f57-a756c53f1803/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
       "order": 4,
@@ -318,7 +318,7 @@
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747134782,
+        "updated": 1747135355,
         "images": {},
         "videos": {},
         "published": true,
@@ -333,13 +333,13 @@
       "indent": 0,
       "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-1",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Literasi Digital Copy Copy Copy Copy",
       "description": "",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747124534,
+        "updated": 1747135373,
         "images": [],
         "videos": [],
         "published": true,
@@ -358,7 +358,7 @@
       "description": "",
       "metadata": {
         "created": 1747107842,
-        "updated": 1747124536,
+        "updated": 1747135390,
         "images": [],
         "videos": [],
         "published": true,
@@ -377,7 +377,7 @@
       "description": "",
       "metadata": {
         "created": 1747109033,
-        "updated": 1747124538,
+        "updated": 1747135407,
         "images": [],
         "videos": [],
         "published": true,
@@ -390,13 +390,13 @@
       "indent": 0,
       "location": "pages/item-aca9b13d-0706-4991-ade0-9ae1673f8d3b/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-1",
-      "order": 5,
+      "order": 4,
       "parent": null,
       "title": "Topik 2: Kuasai Mesin Pencari untuk Riset Digital Andal",
       "description": "Apa Itu Literasi Digital?\n\nsasd\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747114313,
-        "updated": 1747135210,
+        "updated": 1747135361,
         "images": {},
         "videos": {},
         "published": true,
@@ -417,7 +417,7 @@
       "description": "",
       "metadata": {
         "created": 1747115246,
-        "updated": 1747124537,
+        "updated": 1747135400,
         "images": [],
         "videos": [],
         "published": true,
@@ -436,7 +436,7 @@
       "description": "",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747124539,
+        "updated": 1747135417,
         "images": [],
         "videos": [],
         "published": true,
@@ -455,7 +455,7 @@
       "description": "",
       "metadata": {
         "created": 1747123465,
-        "updated": 1747124536,
+        "updated": 1747135383,
         "images": [],
         "videos": [],
         "published": true,
