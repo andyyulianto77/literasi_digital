@@ -144,13 +144,13 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747105508,
+        "updated": 1747105027,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 4,
+        "readtime": 2,
         "status": ""
       }
     },
@@ -195,33 +195,17 @@
       }
     },
     {
-      "id": "item-a3236100-fbd4-4e13-9451-914749542d77",
+      "id": "item-f31bc953-d418-435e-b20c-bd869387f82a",
       "indent": 0,
-      "location": "pages/item-a3236100-fbd4-4e13-9451-914749542d77/index.html",
+      "location": "pages/item-f31bc953-d418-435e-b20c-bd869387f82a/index.html",
       "slug": "literasi-digital-copy-copy",
       "order": 4,
       "parent": null,
       "title": "Literasi Digital Copy Copy",
       "description": "",
       "metadata": {
-        "created": 1747105530,
-        "updated": 1747105530,
-        "images": [],
-        "videos": []
-      }
-    },
-    {
-      "id": "item-936b618f-5535-4aca-9f4b-ff4ec595f005",
-      "indent": 0,
-      "location": "pages/item-936b618f-5535-4aca-9f4b-ff4ec595f005/index.html",
-      "slug": "literasi-digital-copy-copy-copy",
-      "order": 6,
-      "parent": null,
-      "title": "Literasi Digital Copy Copy Copy",
-      "description": "",
-      "metadata": {
-        "created": 1747105538,
-        "updated": 1747105538,
+        "created": 1747106983,
+        "updated": 1747106983,
         "images": [],
         "videos": []
       }
