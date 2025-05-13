@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747124540,
+      "updated": 1747176321,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747135295,
+        "updated": 1747176309,
         "published": true,
         "locked": false,
         "status": "",
@@ -86,13 +86,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 11,
+      "order": 10,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747124539,
+        "updated": 1747176320,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747135302,
+        "updated": 1747176310,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747135307,
+        "updated": 1747176311,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747174218,
+        "updated": 1747176311,
         "images": {},
         "videos": {},
         "published": true,
@@ -195,7 +195,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747124529,
+        "updated": 1747176312,
         "images": {},
         "videos": {},
         "published": true,
@@ -226,7 +226,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747124530,
+        "updated": 1747176313,
         "images": {},
         "videos": {},
         "published": true,
@@ -265,7 +265,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747124531,
+        "updated": 1747176314,
         "images": {},
         "videos": {},
         "published": true,
@@ -296,7 +296,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747124532,
+        "updated": 1747176314,
         "images": {},
         "videos": {},
         "published": true,
@@ -318,7 +318,7 @@
     },
     {
       "id": "item-46f4686a-17bc-4400-8f57-a756c53f1803",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-46f4686a-17bc-4400-8f57-a756c53f1803/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
       "order": 4,
@@ -327,7 +327,7 @@
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747134782,
+        "updated": 1747176315,
         "images": {},
         "videos": {},
         "published": true,
@@ -348,7 +348,7 @@
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747174539,
+        "updated": 1747176315,
         "images": {},
         "videos": {},
         "published": true,
@@ -367,16 +367,16 @@
     },
     {
       "id": "item-693a5d37-c830-454f-b28a-e19736c775a3",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-693a5d37-c830-454f-b28a-e19736c775a3/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-copy-copy",
-      "order": 5,
-      "parent": null,
+      "order": 0,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Pengantar Menggunakan Mesin Pencari ",
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747176253,
+        "updated": 1747176316,
         "images": {},
         "videos": {},
         "published": true,
@@ -388,18 +388,21 @@
     },
     {
       "id": "item-e23f293c-83f6-4d8e-a435-24451e6e6f4e",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-e23f293c-83f6-4d8e-a435-24451e6e6f4e/index.html",
       "slug": "literasi-digital-copy",
-      "order": 6,
-      "parent": null,
+      "order": 1,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Literasi Digital Copy",
       "description": "",
       "metadata": {
         "created": 1747174459,
-        "updated": 1747174459,
+        "updated": 1747176317,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -407,15 +410,18 @@
       "indent": 0,
       "location": "pages/item-758e9457-fe3a-4176-a1d1-8f558486204d/index.html",
       "slug": "literasi-digital-copy-1",
-      "order": 6,
+      "order": 8,
       "parent": null,
       "title": "Literasi Digital Copy",
       "description": "",
       "metadata": {
         "created": 1747174492,
-        "updated": 1747174492,
+        "updated": 1747176319,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -423,15 +429,18 @@
       "indent": 0,
       "location": "pages/item-55a65f14-39cb-4f3e-a77a-f9266e9a4570/index.html",
       "slug": "literasi-digital-copy-2",
-      "order": 6,
+      "order": 9,
       "parent": null,
       "title": "Literasi Digital Copy",
       "description": "",
       "metadata": {
         "created": 1747174502,
-        "updated": 1747174502,
+        "updated": 1747176320,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -445,9 +454,12 @@
       "description": "",
       "metadata": {
         "created": 1747174548,
-        "updated": 1747174548,
+        "updated": 1747176317,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -455,15 +467,18 @@
       "indent": 0,
       "location": "pages/item-0da02440-0ebf-4110-b7f3-5e9cfd417139/index.html",
       "slug": "topik-2:-jurus-jitu-menggunakan-mesin-pencari-copy-1",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Topik 2: Jurus Jitu Menggunakan Mesin Pencari Copy",
       "description": "",
       "metadata": {
         "created": 1747174561,
-        "updated": 1747174561,
+        "updated": 1747176318,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -471,15 +486,18 @@
       "indent": 0,
       "location": "pages/item-b3d4260b-463b-4899-9b21-1b8f0d62914e/index.html",
       "slug": "topik-2:-jurus-jitu-menggunakan-mesin-pencari-copy-2",
-      "order": 5,
+      "order": 7,
       "parent": null,
       "title": "Topik 2: Jurus Jitu Menggunakan Mesin Pencari Copy",
       "description": "",
       "metadata": {
         "created": 1747174569,
-        "updated": 1747174569,
+        "updated": 1747176318,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
