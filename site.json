@@ -443,15 +443,19 @@
       "indent": 0,
       "location": "pages/item-b1de4d8a-80a0-4133-9119-7502e0183ffe/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-1/langkah-menggunakan-kata-kunci-copy-1",
-      "order": 1,
+      "order": 3,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Langkah Menggunakan Kata Kunci Copy",
-      "description": "",
+      "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177533,
-        "updated": 1747177533,
-        "images": [],
-        "videos": []
+        "updated": 1747177570,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
