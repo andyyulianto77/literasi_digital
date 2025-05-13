@@ -421,25 +421,6 @@
           "key": "clean-two"
         }
       }
-    },
-    {
-      "id": "item-55a65f14-39cb-4f3e-a77a-f9266e9a4570",
-      "indent": 0,
-      "location": "pages/item-55a65f14-39cb-4f3e-a77a-f9266e9a4570/index.html",
-      "slug": "literasi-digital-copy-2",
-      "order": 10,
-      "parent": null,
-      "title": "Literasi Digital Copy",
-      "description": "",
-      "metadata": {
-        "created": 1747174502,
-        "updated": 1747177132,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
     }
   ]
 }
