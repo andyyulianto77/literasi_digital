@@ -180,18 +180,20 @@
       "indent": 0,
       "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
       "slug": "literasi-digital-copy-copy-copy",
-      "order": 7,
+      "order": 5,
       "parent": null,
       "title": "Literasi Digital Copy Copy Copy",
-      "description": "",
+      "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747108054,
-        "images": [],
-        "videos": [],
+        "updated": 1747108184,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
