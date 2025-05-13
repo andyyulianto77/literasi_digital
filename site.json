@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747109787,
+      "updated": 1747114619,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747109777,
+        "updated": 1747114609,
         "published": true,
         "locked": false,
         "status": "",
@@ -86,13 +86,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 6,
+      "order": 5,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747109785,
+        "updated": 1747114616,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747109778,
+        "updated": 1747114610,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747109779,
+        "updated": 1747114611,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747109780,
+        "updated": 1747114612,
         "images": {},
         "videos": {},
         "published": true,
@@ -180,13 +180,13 @@
       "indent": 1,
       "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-1",
-      "order": 1,
+      "order": 3,
       "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
       "title": "Literasi Digital Copy Copy Copy Copy",
       "description": "",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747109783,
+        "updated": 1747114615,
         "images": [],
         "videos": [],
         "published": true,
@@ -205,7 +205,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747109781,
+        "updated": 1747114613,
         "images": {},
         "videos": {},
         "published": true,
@@ -227,16 +227,16 @@
     },
     {
       "id": "item-449396cc-7e03-46cf-a8c6-aeab2d1035a7",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-449396cc-7e03-46cf-a8c6-aeab2d1035a7/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy",
-      "order": 4,
-      "parent": null,
+      "order": 1,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
       "title": "Langkah Keluar dari Situs Asli",
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747114262,
+        "updated": 1747114613,
         "images": {},
         "videos": {},
         "published": true,
@@ -265,6 +265,27 @@
       }
     },
     {
+      "id": "item-d2b73300-50c4-4554-a801-0f748cb1b468",
+      "indent": 1,
+      "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-2",
+      "order": 2,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
+      "title": "Langkah: Buka beberapa sumber pembanding",
+      "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "metadata": {
+        "created": 1747109049,
+        "updated": 1747114614,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
       "id": "item-4090039b-0e6f-499a-9b98-95658250ab65",
       "indent": 0,
       "location": "pages/item-4090039b-0e6f-499a-9b98-95658250ab65/index.html",
@@ -275,7 +296,7 @@
       "description": "",
       "metadata": {
         "created": 1747107842,
-        "updated": 1747109786,
+        "updated": 1747114617,
         "images": [],
         "videos": [],
         "published": true,
@@ -294,7 +315,7 @@
       "description": "",
       "metadata": {
         "created": 1747109033,
-        "updated": 1747109786,
+        "updated": 1747114618,
         "images": [],
         "videos": [],
         "published": true,
@@ -303,40 +324,22 @@
       }
     },
     {
-      "id": "item-d2b73300-50c4-4554-a801-0f748cb1b468",
-      "indent": 0,
-      "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
-      "slug": "literasi-digital-copy-copy-copy-copy-copy-2",
-      "order": 5,
-      "parent": null,
-      "title": "Langkah: Buka beberapa sumber pembanding",
-      "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
-      "metadata": {
-        "created": 1747109049,
-        "updated": 1747114501,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
       "id": "item-4fefe3fd-0370-4617-867b-4fd112c957d8",
       "indent": 0,
       "location": "pages/item-4fefe3fd-0370-4617-867b-4fd112c957d8/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-3",
-      "order": 5,
+      "order": 4,
       "parent": null,
       "title": "Literasi Digital Copy Copy Copy Copy Copy",
       "description": "",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747109817,
+        "updated": 1747114615,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -350,9 +353,12 @@
       "description": "",
       "metadata": {
         "created": 1747114313,
-        "updated": 1747114313,
+        "updated": 1747114617,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
