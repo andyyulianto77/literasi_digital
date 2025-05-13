@@ -250,6 +250,22 @@
         "videos": [],
         "updated": 1747108052
       }
+    },
+    {
+      "id": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "indent": 0,
+      "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1",
+      "order": 6,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747108200,
+        "updated": 1747108200,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
