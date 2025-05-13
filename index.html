@@ -22,7 +22,6 @@
   <meta name="og:url" property="og:url" content="/" data-managed-seo />
   <meta name="twitter:site" property="twitter:site" content="/" data-managed-seo />
   <script>
- // custom ganti "@haxtheweb/": "https://cdn.hax.cloud/cdn/build/es6/node_modules/@haxtheweb/"        
     // attempt to correctly set the base without knowing where we're installed fully...
     if (document.location.pathname.indexOf('/_sites/') != -1) {
       document.write("<base href='" + document.location.pathname.substring(0, document.location.pathname.indexOf('/', document.location.pathname.indexOf('/_sites/') + 8)) + "/' />");
@@ -105,228 +104,100 @@
       min-height: 50px;
       min-width: 200px;
     }
-
-
-
-    /* tambahan link a */
-    a {
-  overflow: hidden;
-  position: relative;
-  display: inline-block;
-}
-
-a::before,
-a::after {
- content: '';
-  position: absolute;
-  width: 100%;
-  left: 0;
-}
-a::before {
-  background-color: #54b3d6;
-  height: 2px;
-  bottom: 0;
-  transform-origin: 100% 50%;
-  transform: scaleX(0);
-  transition: transform .3s cubic-bezier(0.76, 0, 0.24, 1);
-}
-a::after {
-  content: attr(data-replace);
-  height: 100%;
-  top: 0;
-  transform-origin: 100% 50%;
-  transform: translate3d(200%, 0, 0);
-  transition: transform .3s cubic-bezier(0.76, 0, 0.24, 1);
-  color: #54b3d6;
-}
-
-a:hover::before {
-  transform-origin: 0% 50%;
-  transform: scaleX(1);
-}
-a:hover::after {
-  transform: translate3d(0, 0, 0);
-}
-
-a span {
-  display: inline-block;
-  transition: transform .3s cubic-bezier(0.76, 0, 0.24, 1);
-}
-
-a:hover span {
-  transform: translate3d(-200%, 0, 0);
-}
-
-a {
-  text-decoration: none;
-  color: #18272F;
-  font-weight: 700;
-  vertical-align: top;
-}
-
-
-.loading-logo {
-  width: 100px;        /* Sesuaikan ukuran logo */
-  height: auto;
-  margin: 0 auto 2rem; /* Jarak bawah agar tidak terlalu mepet ke progress bar */
-  display: block;
-  animation: logo-pulse 3s infinite ease-in-out;
-}
-
-@keyframes logo-pulse {
-  0%, 100% {
-    opacity: 0.7;
-    transform: scale(1);
-  }
-  50% {
-    opacity: 1;
-    transform: scale(1.05);
-  }
-}
-
   </style>
-
-
-
-<style id="loadingstyles">
-  haxcms-site-builder {
-    display: block;
-  }
-  body {
-    background-color: #ffffff;
-    color: rgba(0, 0, 0, 0.2);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  #loading {
-    background-color: #ffffff;
-    bottom: 0;
-    left: 0;
-    opacity: 1;
-    position: fixed;
-    right: 0;
-    top: 0;
-    z-index: 99999999;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    user-select: none;
-  }
-  #loading.loaded {
-    animation: fade-out 0.5s ease-in-out forwards;
-  }
-  #loading div.messaging {
-    color: rgba(0, 0, 0, 0.3);
-    text-align: center;
-    margin-bottom: 3rem;
-    font-weight: 600;
-    font-size: 1.3rem;
-    letter-spacing: 0.05em;
-    animation: pulse-text 2s infinite ease-in-out;
-  }
-  /* Progress bar container */
-  .progress-line {
-    position: relative;
-    width: 50vw;
-    max-width: 400px;
-    height: 12px;
-    background: rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: inset 0 0 5px rgba(0,0,0,0.05);
-  }
-  /* Animated progress shimmer */
-  .progress-line::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -40%;
-    height: 100%;
-    width: 40%;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      #ff4d4d,
-      #ff2222,
-      #ff4d4d,
-      transparent
-    );
-    border-radius: 8px;
-    animation: shimmer 2.5s infinite;
-  }
-
-  /* Animations */
-  @keyframes shimmer {
-    0% {
-      left: -40%;
+  <style id="loadingstyles">
+    haxcms-site-builder {
+      display: block;
     }
-    100% {
-      left: 100%;
-    }
-  }
-  @keyframes fade-out {
-    0% {
-      opacity: 1;
-      visibility: visible;
-    }
-    100% {
-      opacity: 0;
-      visibility: hidden;
-      pointer-events: none;
-    }
-  }
-  @keyframes pulse-text {
-    0%, 100% {
-      opacity: 0.3;
-      transform: scale(1);
-    }
-    50% {
-      opacity: 0.6;
-      transform: scale(1.05);
-    }
-  }
-
-  /* Dark mode support */
-  @media (prefers-color-scheme: dark) {
     body {
-      background-color: #121212;
-      color: rgba(255, 255, 255, 0.3);
+      background-color: #ffffff;
+      color: rgba(0,0,0, 0.2);
     }
     #loading {
-      background-color: #121212;
+      background-color: #ffffff;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      position: absolute;
+      right: 0px;
+      top: 0px;
+      z-index: 99999999;
+    }
+    #loading.loaded {
+      animation: fade-out .1s ease-in-out;
+      animation-fill-mode: forwards;
     }
     #loading div.messaging {
-      color: rgba(255, 255, 255, 0.4);
+      color: rgba(0,0,0, 0.2);
+      left: 0px;
+      position: absolute;
+      right: 0px;
+      text-align: center;
+      top: 25vh;
+    }
+    #loading div.messaging h1 {
+      font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif !important;
+      line-height: 2;
+      font-size: 18px !important;
+      margin: 0;
+      padding: 0;
+    }
+
+    .progress-line,
+    .progress-line:before {
+      height: 8px;
+      width: 100%;
+      margin: auto;
     }
     .progress-line {
-      background: rgba(255, 255, 255, 0.1);
-      box-shadow: inset 0 0 5px rgba(255, 255, 255, 0.1);
+      background-color: rgba(0,0,0, 0.1);
+      display: -webkit-flex;
+      display: flex;
+      width: 50vw;
     }
-    .progress-line::before {
-      background: linear-gradient(
-        90deg,
-        transparent,
-        #ff6b6b,
-        #ff2222,
-        #ff6b6b,
-        transparent
-      );
+    .progress-line:before {
+      background-color: #FF2222;
+      content: '';
+      animation: running-progress 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
     }
-  }
-
-  /* Responsive tweaks */
-  @media (max-width: 600px) {
-    .progress-line {
-      width: 80vw;
-      height: 10px;
+    @keyframes running-progress {
+      0% {
+        margin-left: 0px;
+        margin-right: 100%;
+      }
+      50% {
+        margin-left: 25%;
+        margin-right: 0%;
+      }
+      100% {
+        margin-left: 100%;
+        margin-right: 0;
+      }
     }
-    #loading div.messaging {
-      font-size: 1rem;
-      margin-bottom: 2rem;
+    @keyframes fade-out {
+      0% {
+        opacity: 1;
+      }
+      99% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 0;
+      }
     }
-  }
-</style>
-
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #333333;
+        color: rgba(255,255,255, 0.2);
+      }
+      #loading {
+        background-color: #333333;
+      }
+      #loading div.messaging {
+        color: rgba(255,255,255, 0.2);
+      }
+    }
+  </style>
   <script id="loadingscript">
     globalThis.dataLayer = globalThis.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -349,26 +220,18 @@ a {
           document.querySelector('#loading').parentNode.removeChild(document.querySelector('#loading'));
           document.querySelector('#loadingstyles').parentNode.removeChild(document.querySelector('#loadingstyles'));
           document.querySelector('#loadingscript').parentNode.removeChild(document.querySelector('#loadingscript'));
-        }, 1500);
-      }, 7500);
+        }, 100);
+      }, 300);
     });
   </script>
 </head>
 <body vocab="http://schema.org/" prefix="oer:http://oerschema.org cc:http://creativecommons.org/ns dc:http://purl.org/dc/terms/">
-
-  <!-- Elemen loading tunggal -->
-<section role="alert" id="loading" aria-busy="true">
-  <div class="messaging">
-    <div class="progress-line"></div>
-    <h1>Loading..</h1>
-  </div>
-  <div class="logo-container">
-    <img src="https://bluecrocus.ca/wp-content/uploads/2023/10/graphic-design-desktop-with-laptop-tools-1-1.png" alt="Logo" class="loading-logo" />
-  </div>
-</section>
-
-
-
+  <section role="alert" id="loading" aria-busy="true">
+    <div class="messaging">
+      <div class="progress-line"></div>
+      <h1>Loading..</h1>
+    </div>
+  </section>
   <haxcms-site-builder id="site" file="site.json?2GQKWcJ3ni0xrL2X4_Dw_Sr9SeXqY2Sk3XblmvHVArA"></haxcms-site-builder>
   <script>
     globalThis.MicroFrontendRegistryConfig = globalThis.MicroFrontendRegistryConfig || {};
