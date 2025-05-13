@@ -154,6 +154,22 @@
       }
     },
     {
+      "id": "item-2405f4cd-04ce-4dd1-a883-81128aaa0e30",
+      "indent": 0,
+      "location": "pages/item-2405f4cd-04ce-4dd1-a883-81128aaa0e30/index.html",
+      "slug": "welcome/page/memulai-copy",
+      "order": 2,
+      "parent": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
+      "title": "Memulai Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747104850,
+        "updated": 1747104850,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-08b636a5-78f3-482c-8e44-89d4e01732e4",
       "indent": 0,
       "location": "pages/item-08b636a5-78f3-482c-8e44-89d4e01732e4/index.html",
