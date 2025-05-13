@@ -278,21 +278,23 @@
     },
     {
       "id": "item-4fefe3fd-0370-4617-867b-4fd112c957d8",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-4fefe3fd-0370-4617-867b-4fd112c957d8/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-3",
       "order": 3,
       "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
-      "title": "Literasi Digital Copy Copy Copy Copy Copy",
-      "description": "",
+      "title": "Bandingkan Fakta, Tanggal, dan Kutipan",
+      "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747115345,
-        "images": [],
-        "videos": [],
+        "updated": 1747115591,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
