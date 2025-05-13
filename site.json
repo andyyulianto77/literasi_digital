@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747142739,
+      "updated": 1747124540,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,17 +35,16 @@
       "static": {}
     },
     "theme": {
-      "element": "polaris-invent-theme",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-      "name": "Polaris - Invent",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "element": "custom-tutorial-theme",
+      "path": "./custom/build/custom.es6.js",
+      "name": "Polaris Theme",
       "variables": {
         "image": "",
         "imageAlt": null,
         "imageLink": null,
         "hexCode": null,
-        "cssVariable": "--simple-colors-default-theme-light-green-7",
-        "icon": "av:airplay"
+        "cssVariable": "--simple-colors-default-theme-null-7",
+        "icon": null
       },
       "regions": {}
     },
@@ -93,7 +92,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747135426,
+        "updated": 1747124539,
         "images": {},
         "videos": {},
         "files": [
@@ -166,30 +165,14 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747142987,
+        "updated": 1747135316,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1,
-        "theme": {
-          "element": "polaris-invent-theme",
-          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-          "name": "Polaris - Invent",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "variables": {
-            "image": "",
-            "imageAlt": null,
-            "imageLink": null,
-            "hexCode": null,
-            "cssVariable": "--simple-colors-default-theme-light-green-7",
-            "icon": "av:airplay"
-          },
-          "regions": {},
-          "key": "polaris-invent-theme"
-        }
+        "readtime": 1
       }
     },
     {
@@ -203,7 +186,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747135324,
+        "updated": 1747124529,
         "images": {},
         "videos": {},
         "published": true,
@@ -234,7 +217,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747135329,
+        "updated": 1747124530,
         "images": {},
         "videos": {},
         "published": true,
@@ -273,7 +256,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747135335,
+        "updated": 1747124531,
         "images": {},
         "videos": {},
         "published": true,
@@ -304,7 +287,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747135344,
+        "updated": 1747124532,
         "images": {},
         "videos": {},
         "published": true,
@@ -326,7 +309,7 @@
     },
     {
       "id": "item-46f4686a-17bc-4400-8f57-a756c53f1803",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-46f4686a-17bc-4400-8f57-a756c53f1803/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
       "order": 4,
@@ -335,7 +318,7 @@
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747135355,
+        "updated": 1747134782,
         "images": {},
         "videos": {},
         "published": true,
@@ -343,6 +326,43 @@
         "status": "",
         "hideInMenu": false,
         "readtime": 2
+      }
+    },
+    {
+      "id": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "indent": 0,
+      "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1",
+      "order": 4,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy",
+      "description": "\n\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "metadata": {
+        "created": 1747108200,
+        "updated": 1747143380,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "theme": {
+          "element": "polaris-invent-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+          "name": "Polaris - Invent",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-light-green-7",
+            "icon": "av:airplay"
+          },
+          "regions": {},
+          "key": "polaris-invent-theme"
+        },
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
@@ -356,7 +376,7 @@
       "description": "",
       "metadata": {
         "created": 1747107842,
-        "updated": 1747135390,
+        "updated": 1747124536,
         "images": [],
         "videos": [],
         "published": true,
@@ -375,7 +395,7 @@
       "description": "",
       "metadata": {
         "created": 1747109033,
-        "updated": 1747135407,
+        "updated": 1747124538,
         "images": [],
         "videos": [],
         "published": true,
@@ -388,13 +408,13 @@
       "indent": 0,
       "location": "pages/item-aca9b13d-0706-4991-ade0-9ae1673f8d3b/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-1",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Topik 2: Kuasai Mesin Pencari untuk Riset Digital Andal",
       "description": "Apa Itu Literasi Digital?\n\nsasd\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747114313,
-        "updated": 1747135361,
+        "updated": 1747135210,
         "images": {},
         "videos": {},
         "published": true,
@@ -415,7 +435,7 @@
       "description": "",
       "metadata": {
         "created": 1747115246,
-        "updated": 1747135400,
+        "updated": 1747124537,
         "images": [],
         "videos": [],
         "published": true,
@@ -434,7 +454,7 @@
       "description": "",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747135417,
+        "updated": 1747124539,
         "images": [],
         "videos": [],
         "published": true,
@@ -453,28 +473,12 @@
       "description": "",
       "metadata": {
         "created": 1747123465,
-        "updated": 1747135383,
+        "updated": 1747124536,
         "images": [],
         "videos": [],
         "published": true,
         "locked": false,
         "status": ""
-      }
-    },
-    {
-      "id": "item-d612295b-a26b-4e3d-b0ab-540ef8b3ef86",
-      "indent": 0,
-      "location": "pages/item-d612295b-a26b-4e3d-b0ab-540ef8b3ef86/index.html",
-      "slug": "literasi-digital-copy-copy-copy-copy-copy-4",
-      "order": 6,
-      "parent": null,
-      "title": "Literasi Digital Copy Copy Copy Copy Copy",
-      "description": "",
-      "metadata": {
-        "created": 1747135726,
-        "updated": 1747135726,
-        "images": [],
-        "videos": []
       }
     }
   ]

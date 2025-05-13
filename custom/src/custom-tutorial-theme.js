@@ -18,7 +18,7 @@ import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-git-corner
 import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-breadcrumb.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-recent-content-block.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";
-import "@haxtheweb/haxcms-elements/lib/ui-components/magic/site-ai-chat.js";
+// import "@haxtheweb/haxcms-elements/lib/ui-components/magic/site-ai-chat.js";
 
 /**
  * `CustomTutorialTheme`
