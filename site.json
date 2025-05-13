@@ -457,6 +457,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-ac7344f6-5aa8-4ddc-935c-7a8d03e991d3",
+      "indent": 0,
+      "location": "pages/item-ac7344f6-5aa8-4ddc-935c-7a8d03e991d3/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1/langkah-menggunakan-kata-kunci-copy-copy",
+      "order": 4,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "title": "Langkah Menggunakan Kata Kunci Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747177580,
+        "updated": 1747177580,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
