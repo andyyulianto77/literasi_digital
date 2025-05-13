@@ -166,14 +166,21 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747135316,
+        "updated": 1747142938,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "theme": {
+          "element": "ddd-brochure-theme",
+          "path": "@haxtheweb/d-d-d/lib/ddd-brochure-theme.js",
+          "name": "Brochure",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "ddd-brochure-theme"
+        }
       }
     },
     {
