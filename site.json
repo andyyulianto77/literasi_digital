@@ -231,6 +231,22 @@
         "locked": false,
         "status": ""
       }
+    },
+    {
+      "id": "item-67442a03-f879-49d5-987f-df11d0eca5a4",
+      "indent": 0,
+      "location": "pages/item-67442a03-f879-49d5-987f-df11d0eca5a4/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-1",
+      "order": 6,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747108329,
+        "updated": 1747108329,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
