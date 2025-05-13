@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747129099,
+      "updated": 1747124540,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -36,9 +36,8 @@
     },
     "theme": {
       "element": "polaris-invent-theme",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-      "name": "Polaris - Invent",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "path": "./custom/build/custom.es6.js",
+      "name": "Polaris Theme",
       "variables": {
         "image": "",
         "imageAlt": null,
@@ -315,28 +314,18 @@
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-2",
       "order": 4,
       "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
-      "title": "Mengenal ChatGPT &amp; AI untuk Verifikasi",
+      "title": "Mengenal ChatGPT dan AI untuk Verifikasi",
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747128702,
+        "updated": 1747134782,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 3,
-        "files": [
-          {
-            "path": "/home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-04_23_49-PM-verifikasi.png",
-            "fullUrl": "//home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-13,-2025,-04_23_49-PM-verifikasi.png",
-            "url": "files/ChatGPT-Image-May-13,-2025,-04_23_49-PM-verifikasi.png",
-            "type": "image/png",
-            "name": "ChatGPT-Image-May-13,-2025,-04_23_49-PM-verifikasi.png",
-            "size": 473006
-          }
-        ]
+        "readtime": 2
       }
     },
     {
