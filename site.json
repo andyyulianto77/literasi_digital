@@ -162,17 +162,26 @@
       "order": 3,
       "parent": null,
       "title": "Topik 1: Membaca Lateral: Kunci Mengungkap Fakta di Tengah Arus Hoaks",
-      "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747135316,
+        "updated": 1747174218,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "theme": {
+          "element": "polaris-invent-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+          "name": "Polaris - Invent",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-invent-theme"
+        },
+        "image": "files/Teh-tawar-manis-600x600.jpg",
+        "accentColor": "purple"
       }
     },
     {

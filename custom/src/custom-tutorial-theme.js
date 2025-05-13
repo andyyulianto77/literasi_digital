@@ -77,6 +77,8 @@ class CustomTutorialTheme extends HAXCMSLitElementTheme {
           --my-theme-low-tone: var(--ddd-theme-default-slateMaxLight);
           --my-theme-high-tone: var(--ddd-theme-default-coalyGray);
         }
+
+        
         body {
           padding: var(--ddd-spacing-0);
           margin: var(--ddd-spacing-0);
@@ -103,7 +105,7 @@ class CustomTutorialTheme extends HAXCMSLitElementTheme {
      --a11y-collapse-border-color: red;
      /* perlu untuk menimpa biar tidak gantung  */
      --a11y-collapse-padding-left: -50px;
-     background-color: lightpink;
+     background-color: var(--ddd-theme-default-roarGolden);
      /* jalan */
      /* --a11y-collapse-heading-background-color: lightblue; */
      /* --a11y-collapse-padding-left: 16px; */
