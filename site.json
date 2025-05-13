@@ -459,25 +459,6 @@
         "locked": false,
         "status": ""
       }
-    },
-    {
-      "id": "item-b3d4260b-463b-4899-9b21-1b8f0d62914e",
-      "indent": 0,
-      "location": "pages/item-b3d4260b-463b-4899-9b21-1b8f0d62914e/index.html",
-      "slug": "topik-2:-jurus-jitu-menggunakan-mesin-pencari-copy-2",
-      "order": 8,
-      "parent": null,
-      "title": "Topik 2: Jurus Jitu Menggunakan Mesin Pencari Copy",
-      "description": "",
-      "metadata": {
-        "created": 1747174569,
-        "updated": 1747177131,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
     }
   ]
 }
