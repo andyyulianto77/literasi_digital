@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747109456,
+      "updated": 1747109787,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747109446,
+        "updated": 1747109777,
         "published": true,
         "locked": false,
         "status": "",
@@ -92,7 +92,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747109454,
+        "updated": 1747109785,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747109448,
+        "updated": 1747109778,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747109449,
+        "updated": 1747109779,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747109450,
+        "updated": 1747109780,
         "images": {},
         "videos": {},
         "published": true,
@@ -186,7 +186,7 @@
       "description": "",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747109451,
+        "updated": 1747109783,
         "images": [],
         "videos": [],
         "published": true,
@@ -196,16 +196,16 @@
     },
     {
       "id": "item-67442a03-f879-49d5-987f-df11d0eca5a4",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-67442a03-f879-49d5-987f-df11d0eca5a4/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-1",
-      "order": 3,
-      "parent": null,
+      "order": 0,
+      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
       "title": "Pengantar Membaca Lateral",
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747109723,
+        "updated": 1747109781,
         "images": {},
         "videos": {},
         "published": true,
@@ -236,7 +236,7 @@
       "description": "",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747109452,
+        "updated": 1747109784,
         "images": [],
         "videos": [],
         "published": true,
@@ -255,7 +255,7 @@
       "description": "",
       "metadata": {
         "created": 1747107842,
-        "updated": 1747109455,
+        "updated": 1747109786,
         "images": [],
         "videos": [],
         "published": true,
@@ -274,7 +274,7 @@
       "description": "",
       "metadata": {
         "created": 1747109033,
-        "updated": 1747109456,
+        "updated": 1747109786,
         "images": [],
         "videos": [],
         "published": true,
@@ -293,7 +293,7 @@
       "description": "",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747109453,
+        "updated": 1747109784,
         "images": [],
         "videos": [],
         "published": true,
