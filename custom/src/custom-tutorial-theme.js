@@ -13,11 +13,11 @@ import {
 } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-menu-button.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-title.js";
-import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-title.js";
-import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-git-corner.js";
-import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-breadcrumb.js";
+// import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-title.js";
+// import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-git-corner.js";
+// import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-breadcrumb.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-recent-content-block.js";
-import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";
+// import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/magic/site-ai-chat.js";
 
 /**
@@ -209,6 +209,21 @@ class CustomTutorialTheme extends HAXCMSLitElementTheme {
         }    */
 
         }
+
+        // tambahan polaris warna tidak tahu bisa ndak?
+
+        --polaris-header-bg-color: #291917;
+        --polaris-nav-color: var(--ddd-accent-6);
+        --polaris-nav-bg-color: light-dark(
+          var(--ddd-theme-default-roarGolden),
+          var(--ddd-theme-default-nittanyNavy)
+        );
+        --polaris-footer-secondary-bg-color: var(
+          --ddd-theme-default-roarGolden
+        );
+        --polaris-footer-primary-bg-color: var(
+          --ddd-theme-default-nittanyNavy
+        );
 
         
         
