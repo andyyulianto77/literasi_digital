@@ -376,6 +376,22 @@
         "images": [],
         "videos": []
       }
+    },
+    {
+      "id": "item-75d97981-c4bc-40b8-975e-6f88f52a4e2f",
+      "indent": 0,
+      "location": "pages/item-75d97981-c4bc-40b8-975e-6f88f52a4e2f/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-copy",
+      "order": 7,
+      "parent": null,
+      "title": "Literasi Digital Copy Copy Copy Copy Copy Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747115246,
+        "updated": 1747115246,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
