@@ -237,15 +237,19 @@
       "indent": 0,
       "location": "pages/item-67442a03-f879-49d5-987f-df11d0eca5a4/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-1",
-      "order": 6,
+      "order": 5,
       "parent": null,
-      "title": "Literasi Digital Copy Copy Copy Copy Copy",
-      "description": "",
+      "title": "Pengantar Membaca Lateral",
+      "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral&#8212;yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747108329,
-        "images": [],
-        "videos": []
+        "updated": 1747109002,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
