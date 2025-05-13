@@ -162,15 +162,17 @@
       "order": 3,
       "parent": null,
       "title": "Literasi Digital Copy",
-      "description": "",
+      "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747104963,
-        "updated": 1747105028,
-        "images": [],
-        "videos": [],
+        "updated": 1747105142,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
