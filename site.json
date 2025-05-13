@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747177163,
+      "updated": 1747177220,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747177120,
+        "updated": 1747177211,
         "published": true,
         "locked": false,
         "status": "",
@@ -86,13 +86,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 11,
+      "order": 5,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747177133,
+        "updated": 1747177219,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747177121,
+        "updated": 1747177212,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747177122,
+        "updated": 1747177213,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747177123,
+        "updated": 1747177214,
         "images": {},
         "videos": {},
         "published": true,
@@ -195,7 +195,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747177123,
+        "updated": 1747177214,
         "images": {},
         "videos": {},
         "published": true,
@@ -226,7 +226,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747177124,
+        "updated": 1747177215,
         "images": {},
         "videos": {},
         "published": true,
@@ -265,7 +265,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747177125,
+        "updated": 1747177216,
         "images": {},
         "videos": {},
         "published": true,
@@ -296,7 +296,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747177125,
+        "updated": 1747177216,
         "images": {},
         "videos": {},
         "published": true,
@@ -327,7 +327,7 @@
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747177126,
+        "updated": 1747177217,
         "images": {},
         "videos": {},
         "published": true,
@@ -348,7 +348,7 @@
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747177127,
+        "updated": 1747177218,
         "images": {},
         "videos": {},
         "published": true,
@@ -371,13 +371,13 @@
       "indent": 1,
       "location": "pages/item-e23f293c-83f6-4d8e-a435-24451e6e6f4e/index.html",
       "slug": "literasi-digital-copy",
-      "order": 0,
+      "order": 1,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Langkah ",
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747174459,
-        "updated": 1747177128,
+        "updated": 1747177219,
         "images": {},
         "videos": {},
         "published": true,
@@ -396,16 +396,16 @@
     },
     {
       "id": "item-693a5d37-c830-454f-b28a-e19736c775a3",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-693a5d37-c830-454f-b28a-e19736c775a3/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy-copy-copy-copy",
-      "order": 5,
-      "parent": null,
+      "order": 0,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Literasi Digital",
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747177128,
+        "updated": 1747177218,
         "images": {},
         "videos": {},
         "published": true,
