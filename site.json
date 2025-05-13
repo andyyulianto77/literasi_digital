@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747099409,
+      "updated": 1747105030,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747098849,
+        "updated": 1747105025,
         "published": true,
         "locked": false,
         "status": "",
@@ -83,16 +83,16 @@
     },
     {
       "id": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 0,
-      "parent": "item-d3dafcf5-5d32-46d4-99b2-124b2051d5e0",
+      "order": 4,
+      "parent": null,
       "title": "Page",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747098857,
+        "updated": 1747105028,
         "images": {},
         "videos": {},
         "files": [
@@ -117,13 +117,13 @@
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
       "slug": "welcome/page/page",
-      "order": 0,
-      "parent": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
+      "order": 1,
+      "parent": null,
       "title": "Literasi Digital",
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747104937,
+        "updated": 1747105026,
         "images": {},
         "videos": {},
         "published": true,
@@ -138,19 +138,20 @@
       "indent": 0,
       "location": "pages/item-3f27caa2-5fc6-4aac-9b65-d2db7d503006/index.html",
       "slug": "welcome/page/literasi-digital-copy",
-      "order": 1,
-      "parent": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
+      "order": 2,
+      "parent": null,
       "title": "Memulai",
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747104543,
+        "updated": 1747105027,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2
+        "readtime": 2,
+        "status": ""
       }
     },
     {
@@ -158,15 +159,18 @@
       "indent": 0,
       "location": "pages/item-f961854f-24ac-46f2-ad17-26e62a1e04ec/index.html",
       "slug": "welcome/page/literasi-digital-copy-1",
-      "order": 1,
-      "parent": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
+      "order": 3,
+      "parent": null,
       "title": "Literasi Digital Copy",
       "description": "",
       "metadata": {
         "created": 1747104963,
-        "updated": 1747104963,
+        "updated": 1747105028,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     },
     {
@@ -174,15 +178,18 @@
       "indent": 0,
       "location": "pages/item-08b636a5-78f3-482c-8e44-89d4e01732e4/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 5,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1747100186,
-        "updated": 1747100186,
+        "updated": 1747105029,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
