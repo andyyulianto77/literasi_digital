@@ -232,16 +232,18 @@
       "slug": "literasi-digital-copy-copy-copy-copy",
       "order": 4,
       "parent": null,
-      "title": "Literasi Digital Copy Copy Copy Copy",
-      "description": "",
+      "title": "Langkah Keluar dari Situs Asli",
+      "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747109784,
-        "images": [],
-        "videos": [],
+        "updated": 1747110777,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
