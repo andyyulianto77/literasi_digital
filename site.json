@@ -367,6 +367,50 @@
       }
     },
     {
+      "id": "item-e23f293c-83f6-4d8e-a435-24451e6e6f4e",
+      "indent": 0,
+      "location": "pages/item-e23f293c-83f6-4d8e-a435-24451e6e6f4e/index.html",
+      "slug": "literasi-digital-copy",
+      "order": 0,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "title": "Langkah ",
+      "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
+      "metadata": {
+        "created": 1747174459,
+        "updated": 1747176829,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "locked": false,
+        "status": "",
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        },
+        "hideInMenu": false,
+        "readtime": 1
+      }
+    },
+    {
+      "id": "item-4d291500-f2cf-49e9-bda9-c766bfdfa1c8",
+      "indent": 0,
+      "location": "pages/item-4d291500-f2cf-49e9-bda9-c766bfdfa1c8/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1/literasi-digital-copy-copy",
+      "order": 1,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "title": "Literasi Digital Copy Copy",
+      "description": "",
+      "metadata": {
+        "created": 1747176866,
+        "updated": 1747176866,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-693a5d37-c830-454f-b28a-e19736c775a3",
       "indent": 0,
       "location": "pages/item-693a5d37-c830-454f-b28a-e19736c775a3/index.html",
@@ -392,25 +436,6 @@
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
           "key": "clean-two"
         }
-      }
-    },
-    {
-      "id": "item-e23f293c-83f6-4d8e-a435-24451e6e6f4e",
-      "indent": 1,
-      "location": "pages/item-e23f293c-83f6-4d8e-a435-24451e6e6f4e/index.html",
-      "slug": "literasi-digital-copy",
-      "order": 1,
-      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
-      "title": "Literasi Digital Copy",
-      "description": "",
-      "metadata": {
-        "created": 1747174459,
-        "updated": 1747176317,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
       }
     },
     {
