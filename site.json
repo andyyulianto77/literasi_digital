@@ -69,7 +69,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747108049,
+        "updated": 1747108233,
         "published": true,
         "locked": false,
         "status": "",
@@ -86,13 +86,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "welcome/page",
-      "order": 9,
+      "order": 8,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747108055,
+        "updated": 1747108239,
         "images": {},
         "videos": {},
         "files": [
@@ -123,7 +123,7 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747108050,
+        "updated": 1747108234,
         "images": {},
         "videos": {},
         "published": true,
@@ -144,7 +144,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747108051,
+        "updated": 1747108235,
         "images": {},
         "videos": {},
         "published": true,
@@ -152,27 +152,6 @@
         "locked": false,
         "readtime": 2,
         "status": ""
-      }
-    },
-    {
-      "id": "item-f961854f-24ac-46f2-ad17-26e62a1e04ec",
-      "indent": 0,
-      "location": "pages/item-f961854f-24ac-46f2-ad17-26e62a1e04ec/index.html",
-      "slug": "welcome/page/literasi-digital-copy-1",
-      "order": 3,
-      "parent": null,
-      "title": "Topik 1: Membaca Lateral: Kunci Mengungkap Fakta di Tengah Arus Hoaks",
-      "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
-      "metadata": {
-        "created": 1747104963,
-        "updated": 1747108051,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 1
       }
     },
     {
@@ -186,7 +165,7 @@
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747108184,
+        "updated": 1747108237,
         "images": {},
         "videos": {},
         "published": true,
@@ -201,13 +180,13 @@
       "indent": 0,
       "location": "pages/item-449396cc-7e03-46cf-a8c6-aeab2d1035a7/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy",
-      "order": 8,
+      "order": 7,
       "parent": null,
       "title": "Literasi Digital Copy Copy Copy Copy",
       "description": "",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747108054,
+        "updated": 1747108238,
         "images": [],
         "videos": [],
         "published": true,
@@ -220,13 +199,13 @@
       "indent": 0,
       "location": "pages/item-4090039b-0e6f-499a-9b98-95658250ab65/index.html",
       "slug": "literasi-digital-copy-copy-copy-copy-copy",
-      "order": 10,
+      "order": 9,
       "parent": null,
       "title": "Literasi Digital Copy Copy Copy Copy Copy",
       "description": "",
       "metadata": {
         "created": 1747107842,
-        "updated": 1747108056,
+        "updated": 1747108240,
         "images": [],
         "videos": [],
         "published": true,
@@ -248,7 +227,9 @@
         "created": 1747108052,
         "images": [],
         "videos": [],
-        "updated": 1747108052
+        "updated": 1747108236,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -262,9 +243,12 @@
       "description": "",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747108200,
+        "updated": 1747108238,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "locked": false,
+        "status": ""
       }
     }
   ]
