@@ -634,7 +634,7 @@
     },
     {
       "id": "item-f8bc6b7a-7760-4b37-9e9b-68603f476bf2",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-f8bc6b7a-7760-4b37-9e9b-68603f476bf2/index.html",
       "slug": "topik-3-membuat-konten/langkah-2:-penulisan-naskah-dan-storyboard",
       "order": 1,
@@ -643,7 +643,7 @@
       "description": "Setelah perencanaan selesai, langkah berikutnya adalah menulis naskah atau script untuk konten yang akan dibuat. Gunakan bahasa yang jelas, ringkas, dan sesuai dengan gaya komunikasi audiens. Pastika",
       "metadata": {
         "created": 1747229428,
-        "updated": 1747233719,
+        "updated": 1747264918,
         "images": {},
         "videos": {},
         "published": true,
