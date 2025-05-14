@@ -711,13 +711,17 @@
       "slug": "topik3-konten-digital/page-4",
       "order": 4,
       "parent": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
-      "title": "Page",
-      "description": "",
+      "title": "Langkah 5: Refleksi dan Umpan Balik",
+      "description": "angkah terakhir adalah melakukan refleksi terhadap proses dan hasil dari produksi konten. Tinjau kembali setiap tahap untuk mengidentifikasi apa yang telah berjalan dengan baik dan area yang perlu di",
       "metadata": {
         "created": 1747229915,
-        "updated": 1747229915,
-        "images": [],
-        "videos": []
+        "updated": 1747230007,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
