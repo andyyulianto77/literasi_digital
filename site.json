@@ -577,25 +577,6 @@
         "readtime": 1,
         "status": ""
       }
-    },
-    {
-      "id": "item-33d4c58e-c6a7-4c37-a573-09023f3981e8",
-      "indent": 0,
-      "location": "pages/item-bf18d7db-f641-4698-aa33-15d1d494e3cc/index.html",
-      "slug": "",
-      "order": 3,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1747213688,
-        "updated": 1747219406,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
     }
   ]
 }
