@@ -548,7 +548,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/filter.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/filter.png",
+            "url": "files/filter.png",
+            "type": "image/png",
+            "name": "filter.png",
+            "size": 446879
+          }
+        ]
       }
     },
     {
