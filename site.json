@@ -304,16 +304,16 @@
     },
     {
       "id": "item-4fefe3fd-0370-4617-867b-4fd112c957d8",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-4fefe3fd-0370-4617-867b-4fd112c957d8/index.html",
-      "slug": "topik-1-membaca-lateral/langkah:-bandingkan-fakta,-tanggal,-dan-kutipan",
+      "slug": "langkah3-fakta",
       "order": 3,
       "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
-      "title": "Langkah: Bandingkan Fakta, Tanggal, dan Kutipan",
+      "title": "Langkah 3: Bandingkan Fakta, Tanggal, dan Kutipan",
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747222809,
+        "updated": 1747223359,
         "images": {},
         "videos": {},
         "published": true,
@@ -336,7 +336,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         }
       }
     },
