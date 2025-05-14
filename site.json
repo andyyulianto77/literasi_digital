@@ -786,13 +786,17 @@
       "slug": "topik-4-warga-digital/page",
       "order": 0,
       "parent": "item-7fac6096-4796-41b5-addd-4a60e024085f",
-      "title": "Page",
-      "description": "",
+      "title": "Pengantar Beretika",
+      "description": "Norma dasar&#8212;kejujuran, rasa hormat, dan tanggung jawab&#8212;harus tetap terpelihara saat mengetik komentar, membagikan artikel, atau ikut grup diskusi.&#160;\nMisalnya, saat menemukan postingan",
       "metadata": {
         "created": 1747234020,
-        "updated": 1747234020,
-        "images": [],
-        "videos": []
+        "updated": 1747234147,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
