@@ -17,13 +17,13 @@
       "settings": {
         "lang": "en-US",
         "publishPagesOn": false,
-        "pathauto": false,
+        "pathauto": true,
         "sw": false,
         "forceUpgrade": false,
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747218601,
+      "updated": 1747218849,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -614,11 +614,11 @@
         "images": {},
         "videos": {},
         "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
         },
         "published": true,
         "hideInMenu": false,
