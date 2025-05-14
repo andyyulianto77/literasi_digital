@@ -603,6 +603,22 @@
           "key": "clean-two"
         }
       }
+    },
+    {
+      "id": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
+      "indent": 0,
+      "location": "pages/item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4/index.html",
+      "slug": "page",
+      "order": 4,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1747225280,
+        "updated": 1747225280,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
