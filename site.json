@@ -139,7 +139,17 @@
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
           "key": "clean-two"
-        }
+        },
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/pexels-julia-m-cameron-4145078.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/pexels-julia-m-cameron-4145078.jpg",
+            "url": "files/pexels-julia-m-cameron-4145078.jpg",
+            "type": "image/jpeg",
+            "name": "pexels-julia-m-cameron-4145078.jpg",
+            "size": 70172
+          }
+        ]
       }
     },
     {
