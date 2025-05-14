@@ -477,12 +477,23 @@
       "order": 4,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
       "title": "Langkah Menggunakan Kata Kunci Copy Copy",
-      "description": "",
+      "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747177580,
-        "images": [],
-        "videos": []
+        "updated": 1747183877,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "polaris-invent-theme",
+          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+          "name": "Polaris - Invent",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "polaris-invent-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     },
     {
