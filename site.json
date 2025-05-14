@@ -516,7 +516,7 @@
     },
     {
       "id": "item-c1082b0b-41a8-4d33-a51f-c97466c8a3a4",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c1082b0b-41a8-4d33-a51f-c97466c8a3a4/index.html",
       "slug": "topik-2-jurus-mesin-pencari/langkah-3:-periksa-tanggal-publikasi",
       "order": 3,
@@ -525,7 +525,7 @@
       "description": "Set Pada Mesin\nSelalu perhatikan kapan artikel atau data tersebut diterbitkan. Informasi lama bisa jadi sudah tidak relevan, terutama untuk isu-isu yang berkembang cepat seperti teknologi, kebijakan,",
       "metadata": {
         "created": 1747177972,
-        "updated": 1747233716,
+        "updated": 1747264780,
         "images": {},
         "videos": {},
         "theme": {
@@ -533,16 +533,7 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two",
-          "variables": {
-            "image": "",
-            "imageAlt": null,
-            "imageLink": null,
-            "hexCode": null,
-            "cssVariable": "--simple-colors-default-theme-null-7",
-            "icon": null
-          },
-          "regions": {}
+          "key": "clean-two"
         },
         "published": true,
         "hideInMenu": false,
