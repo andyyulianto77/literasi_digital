@@ -17,13 +17,13 @@
       "settings": {
         "lang": "en-US",
         "publishPagesOn": false,
-        "pathauto": true,
+        "pathauto": false,
         "sw": false,
         "forceUpgrade": false,
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747230627,
+      "updated": 1747231927,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
