@@ -565,13 +565,24 @@
       "slug": "literasi-digital-copy-copy-copy-copy-1/page/page",
       "order": 0,
       "parent": "item-07028436-8f26-4ccb-9611-8e5e7bbf48e0",
-      "title": "Page",
-      "description": "",
+      "title": "Pengantar",
+      "description": "\nDi era serba digital, kemampuan membuat konten yang menarik dan bertanggung jawab adalah keterampilan yang sangat berharga, termasuk untuk tugas proyek Informatika Anda. Konten digital hadir dalam b",
       "metadata": {
         "created": 1747190557,
-        "updated": 1747190557,
-        "images": [],
-        "videos": []
+        "updated": 1747190638,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
