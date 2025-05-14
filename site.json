@@ -703,6 +703,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-38d07e85-8ee5-4ddd-a94e-66cae55818a2",
+      "indent": 0,
+      "location": "pages/item-38d07e85-8ee5-4ddd-a94e-66cae55818a2/index.html",
+      "slug": "topik3-konten-digital/page-4",
+      "order": 4,
+      "parent": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1747229915,
+        "updated": 1747229915,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
