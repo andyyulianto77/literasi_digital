@@ -530,6 +530,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-07028436-8f26-4ccb-9611-8e5e7bbf48e0",
+      "indent": 0,
+      "location": "pages/item-07028436-8f26-4ccb-9611-8e5e7bbf48e0/index.html",
+      "slug": "literasi-digital-copy-copy-copy-copy-1/page",
+      "order": 5,
+      "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1747190382,
+        "updated": 1747190382,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
