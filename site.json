@@ -460,7 +460,7 @@
     },
     {
       "id": "item-429f9123-841b-4820-9cc7-b7d7e77a9f8e",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-429f9123-841b-4820-9cc7-b7d7e77a9f8e/index.html",
       "slug": "topik-2-jurus-mesin-pencari/langkah-2:-manfaatkan-operator-pencarian",
       "order": 2,
@@ -469,7 +469,7 @@
       "description": "Operator Pencarian\nPenggunaan tanda kutip, simbol minus, dan pencarian dalam situs tertentu (site:) juga merupakan cara cerdas menyaring hasil. Dengan kata lain, mesin pencari bukan hanya alat, tetap",
       "metadata": {
         "created": 1747177495,
-        "updated": 1747233715,
+        "updated": 1747264641,
         "images": {},
         "videos": {},
         "theme": {
@@ -477,16 +477,7 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two",
-          "variables": {
-            "image": "",
-            "imageAlt": null,
-            "imageLink": null,
-            "hexCode": null,
-            "cssVariable": "--simple-colors-default-theme-null-7",
-            "icon": null
-          },
-          "regions": {}
+          "key": "clean-two"
         },
         "published": true,
         "hideInMenu": false,
