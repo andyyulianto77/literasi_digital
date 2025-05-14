@@ -555,27 +555,6 @@
           "key": "clean-two"
         }
       }
-    },
-    {
-      "id": "item-b1de4d8a-80a0-4133-9119-7502e0183ffe",
-      "indent": 0,
-      "location": "pages/item-b1de4d8a-80a0-4133-9119-7502e0183ffe/index.html",
-      "slug": "langkah-menggunakan-kata-kunci-copy",
-      "order": 4,
-      "parent": null,
-      "title": "Langkah Menggunakan Kata Kunci Copy",
-      "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
-      "metadata": {
-        "created": 1747177533,
-        "updated": 1747222814,
-        "images": {},
-        "videos": {},
-        "published": false,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
     }
   ]
 }
