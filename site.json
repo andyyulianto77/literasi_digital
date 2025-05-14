@@ -538,13 +538,24 @@
       "slug": "literasi-digital-copy-copy-copy-copy-1/page",
       "order": 5,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
-      "title": "Page",
-      "description": "",
+      "title": "Topik 3: Membuat Konten Digital Keren",
+      "description": "\n\n\nBy the end of this lesson, you should be able to...\n",
       "metadata": {
         "created": 1747190382,
-        "updated": 1747190382,
-        "images": [],
-        "videos": []
+        "updated": 1747190545,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
