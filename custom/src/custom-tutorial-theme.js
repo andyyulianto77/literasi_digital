@@ -13,7 +13,7 @@ import {
 } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-menu-button.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-title.js";
-// import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-title.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-title.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-git-corner.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-breadcrumb.js";
 // import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-recent-content-block.js";
