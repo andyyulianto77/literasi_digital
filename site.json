@@ -608,16 +608,20 @@
       "id": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
       "indent": 0,
       "location": "pages/item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4/index.html",
-      "slug": "page",
+      "slug": "topik3-konten-digital",
       "order": 4,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Topik 3: Membuat Konten Digital Keren dan Bertanggung Jawab",
+      "description": "\n",
       "metadata": {
         "created": 1747225280,
-        "updated": 1747225280,
-        "images": [],
-        "videos": []
+        "updated": 1747225435,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
