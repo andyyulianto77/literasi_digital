@@ -651,13 +651,17 @@
       "slug": "topik3-konten-digital/page-1",
       "order": 1,
       "parent": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
-      "title": "Page",
-      "description": "",
+      "title": "Langkah 2: Penulisan Naskah dan Storyboard",
+      "description": "Setelah perencanaan selesai, langkah berikutnya adalah menulis naskah atau script untuk konten yang akan dibuat. Gunakan bahasa yang jelas, ringkas, dan sesuai dengan gaya komunikasi audiens. Pastika",
       "metadata": {
         "created": 1747229428,
-        "updated": 1747229428,
-        "images": [],
-        "videos": []
+        "updated": 1747229522,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
