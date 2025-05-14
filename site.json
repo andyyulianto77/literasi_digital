@@ -16,14 +16,14 @@
       "logo": "https://images-assets.nasa.gov/image/ARC-2011-ACD11-0035-024/ARC-2011-ACD11-0035-024~small.jpg",
       "settings": {
         "lang": "en-US",
-        "publishPagesOn": true,
-        "pathauto": true,
+        "publishPagesOn": false,
+        "pathauto": false,
         "sw": false,
         "forceUpgrade": false,
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747217207,
+      "updated": 1747217251,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
