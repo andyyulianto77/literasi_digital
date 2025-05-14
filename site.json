@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747218028,
+      "updated": 1747218366,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,9 +35,9 @@
       "static": {}
     },
     "theme": {
-      "element": "polaris-flex-sidebar",
-      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
-      "name": "Polaris - Flex Sidebar",
+      "element": "polaris-flex-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js",
+      "name": "Polaris - Flex",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
@@ -131,14 +131,7 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 2,
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        "readtime": 2
       }
     },
     {
@@ -181,13 +174,6 @@
         "status": "",
         "hideInMenu": false,
         "readtime": 1,
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "image": "files/Teh-tawar-manis-600x600.jpg",
         "accentColor": "purple"
       }
@@ -220,14 +206,7 @@
             "size": 1757579
           }
         ],
-        "status": "",
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        "status": ""
       }
     },
     {
@@ -266,14 +245,7 @@
             "name": "ChatGPT-Image-May-13,-2025,-11_34_14-infografis-membaca-lateal.png",
             "size": 1874907
           }
-        ],
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        ]
       }
     },
     {
@@ -305,13 +277,6 @@
             "size": 2106269
           }
         ],
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "accentColor": "teal"
       }
     },
@@ -343,14 +308,7 @@
             "name": "ChatGPT-Image-May-13,-2025,-01_06_58-PM-tanggal.png",
             "size": 324760
           }
-        ],
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        ]
       }
     },
     {
@@ -371,14 +329,7 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 2,
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        "readtime": 2
       }
     },
     {
@@ -398,13 +349,6 @@
         "published": true,
         "locked": false,
         "status": "",
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "hideInMenu": false,
         "readtime": 1,
         "accentColor": "teal"
@@ -428,14 +372,7 @@
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1,
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
+        "readtime": 1
       }
     },
     {
@@ -452,13 +389,6 @@
         "updated": 1747194516,
         "images": {},
         "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -501,13 +431,6 @@
         "updated": 1747194517,
         "images": {},
         "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -529,13 +452,6 @@
         "updated": 1747194519,
         "images": {},
         "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -557,13 +473,6 @@
         "updated": 1747194519,
         "images": {},
         "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -585,13 +494,6 @@
         "updated": 1747194520,
         "images": {},
         "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
         "published": true,
         "hideInMenu": false,
         "locked": false,
