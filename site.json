@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747194523,
+      "updated": 1747217207,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,9 +35,11 @@
       "static": {}
     },
     "theme": {
-      "element": "custom-hax-polaris-theme",
-      "path": "./custom/build/custom.es6.js",
-      "name": "Polaris Theme",
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean two theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "key": "clean-two",
       "variables": {
         "image": "",
         "imageAlt": null,
