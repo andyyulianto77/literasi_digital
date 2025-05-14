@@ -35,7 +35,7 @@
       "static": {}
     },
     "theme": {
-      "element": "custom-tutorial-theme",
+      "element": "custom-hax-polaris-theme",
       "path": "./custom/build/custom.es6.js",
       "name": "Polaris Theme",
       "variables": {
@@ -123,14 +123,21 @@
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747194755,
+        "updated": 1747217018,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 2
+        "readtime": 2,
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        }
       }
     },
     {

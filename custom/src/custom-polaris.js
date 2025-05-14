@@ -5,7 +5,13 @@
 import { HAXCMSLitElementTheme, css, unsafeCSS, html, store, autorun, toJS } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
 import { PolarisFlexTheme } from "@haxtheweb/polaris-theme/lib/polaris-flex-theme.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/blocks/site-children-block.js";
-
+import "@haxtheweb/scroll-button/scroll-button.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-title.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-title.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/active-item/site-active-tags.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/navigation/site-menu.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/layout/site-modal.js";
+import "@haxtheweb/haxcms-elements/lib/ui-components/layout/site-region.js";
 /**
  * `CustomHaxPolarisTheme`
  * `CustomHaxPolarisTheme based on modern flex design system`
