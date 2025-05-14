@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747233441,
+      "updated": 1747233531,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -71,7 +71,7 @@
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747233438,
+        "updated": 1747233528,
         "published": true,
         "locked": false,
         "status": "",
@@ -94,7 +94,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747233440,
+        "updated": 1747233529,
         "images": {},
         "videos": {},
         "files": [
@@ -119,13 +119,13 @@
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
       "slug": "literasi-digital",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "Literasi Digital",
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747233419,
+        "updated": 1747233518,
         "images": {},
         "videos": {},
         "published": true,
@@ -156,13 +156,13 @@
       "indent": 0,
       "location": "pages/item-3f27caa2-5fc6-4aac-9b65-d2db7d503006/index.html",
       "slug": "memulai",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Memulai",
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747233420,
+        "updated": 1747233518,
         "images": {},
         "videos": {},
         "published": true,
@@ -193,13 +193,13 @@
       "indent": 0,
       "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
       "slug": "topik-1-membaca",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Topik 1: Membaca Lateral",
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747233421,
+        "updated": 1747233519,
         "images": {},
         "videos": {},
         "published": true,
@@ -238,7 +238,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747233423,
+        "updated": 1747233521,
         "images": {},
         "videos": {},
         "published": true,
@@ -293,7 +293,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747233425,
+        "updated": 1747233522,
         "images": {},
         "videos": {},
         "published": true,
@@ -340,7 +340,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747233424,
+        "updated": 1747233521,
         "images": {},
         "videos": {},
         "published": true,
@@ -388,7 +388,7 @@
       "description": "ChatGPT, seperti halnya mesin pencari atau situs cek fakta, dapat digunakan untuk menelusuri konteks suatu isu, mengenali kesenjangan dalam narasi, hingga menyarankan sumber terpercaya. Fungsinya buk",
       "metadata": {
         "created": 1747224075,
-        "updated": 1747233426,
+        "updated": 1747233523,
         "images": {},
         "videos": {},
         "published": true,
@@ -419,7 +419,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747233422,
+        "updated": 1747233520,
         "images": {},
         "videos": {},
         "published": true,
@@ -460,13 +460,13 @@
       "indent": 0,
       "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
       "slug": "topik-2-jurus-mesin-pencari",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Topik 2: Jurus Menggunakan Mesin Pencari",
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747233427,
+        "updated": 1747233524,
         "images": {},
         "videos": {},
         "published": true,
@@ -504,7 +504,7 @@
       "description": "Operator Pencarian\nPenggunaan tanda kutip, simbol minus, dan pencarian dalam situs tertentu (site:) juga merupakan cara cerdas menyaring hasil. Dengan kata lain, mesin pencari bukan hanya alat, tetap",
       "metadata": {
         "created": 1747177495,
-        "updated": 1747233430,
+        "updated": 1747233525,
         "images": {},
         "videos": {},
         "theme": {
@@ -541,7 +541,7 @@
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747233429,
+        "updated": 1747233525,
         "images": {},
         "videos": {},
         "theme": {
@@ -578,7 +578,7 @@
       "description": "Set Pada Mesin\nSelalu perhatikan kapan artikel atau data tersebut diterbitkan. Informasi lama bisa jadi sudah tidak relevan, terutama untuk isu-isu yang berkembang cepat seperti teknologi, kebijakan,",
       "metadata": {
         "created": 1747177972,
-        "updated": 1747233431,
+        "updated": 1747233526,
         "images": {},
         "videos": {},
         "theme": {
@@ -615,7 +615,7 @@
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747233428,
+        "updated": 1747233524,
         "images": {},
         "videos": {},
         "published": true,
@@ -637,13 +637,13 @@
       "indent": 0,
       "location": "pages/item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4/index.html",
       "slug": "topik-3:-membuat-konten-digital-keren-dan-bertanggung-jawab",
-      "order": 4,
+      "order": 0,
       "parent": null,
       "title": "Topik 3: Membuat Konten Digital Keren dan Bertanggung Jawab",
       "description": "\n",
       "metadata": {
         "created": 1747225280,
-        "updated": 1747233432,
+        "updated": 1747233512,
         "images": {},
         "videos": {},
         "published": true,
@@ -664,7 +664,7 @@
       "description": "Langkah awal dalam produksi konten digital adalah melakukan riset dan perencanaan yang matang. Identifikasi topik yang relevan dengan audiens target dan tentukan tujuan dari konten yang akan dibuat. ",
       "metadata": {
         "created": 1747227303,
-        "updated": 1747233433,
+        "updated": 1747233513,
         "images": {},
         "videos": {},
         "published": true,
@@ -685,7 +685,7 @@
       "description": "Setelah perencanaan selesai, langkah berikutnya adalah menulis naskah atau script untuk konten yang akan dibuat. Gunakan bahasa yang jelas, ringkas, dan sesuai dengan gaya komunikasi audiens. Pastika",
       "metadata": {
         "created": 1747229428,
-        "updated": 1747233434,
+        "updated": 1747233514,
         "images": {},
         "videos": {},
         "published": true,
@@ -706,7 +706,7 @@
       "description": "\n\nTahap produksi melibatkan pembuatan konten sesuai dengan naskah dan storyboard yang telah disusun. Gunakan peralatan dan perangkat lunak yang sesuai untuk menghasilkan konten berkualitas tinggi. Mi",
       "metadata": {
         "created": 1747229574,
-        "updated": 1747233435,
+        "updated": 1747233515,
         "images": {},
         "videos": {},
         "published": true,
@@ -727,7 +727,7 @@
       "description": "Setelah konten selesai diproduksi, langkah selanjutnya adalah mempublikasikannya di platform yang telah dipilih. Optimalkan konten dengan menambahkan judul yang menarik, deskripsi yang informatif, da",
       "metadata": {
         "created": 1747229675,
-        "updated": 1747233436,
+        "updated": 1747233516,
         "images": {},
         "videos": {},
         "published": true,
@@ -748,7 +748,7 @@
       "description": "angkah terakhir adalah melakukan refleksi terhadap proses dan hasil dari produksi konten. Tinjau kembali setiap tahap untuk mengidentifikasi apa yang telah berjalan dengan baik dan area yang perlu di",
       "metadata": {
         "created": 1747229915,
-        "updated": 1747233437,
+        "updated": 1747233517,
         "images": {},
         "videos": {},
         "published": true,
@@ -769,7 +769,7 @@
       "description": "",
       "metadata": {
         "created": 1747230571,
-        "updated": 1747233437,
+        "updated": 1747233527,
         "images": [],
         "videos": [],
         "published": true,
