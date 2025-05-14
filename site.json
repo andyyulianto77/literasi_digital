@@ -612,15 +612,26 @@
       "indent": 0,
       "location": "pages/item-9c12411e-1048-4bea-9a96-4b90a21a1570/index.html",
       "slug": "page-1",
-      "order": 2,
+      "order": 4,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Belajar",
+      "description": "learn\nlearn\n",
       "metadata": {
         "created": 1747214119,
-        "updated": 1747214119,
-        "images": [],
-        "videos": []
+        "updated": 1747214158,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "learn-two-theme",
+          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
+          "name": "Learn theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "learn-two-theme"
+        },
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
