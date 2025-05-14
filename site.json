@@ -579,34 +579,6 @@
       }
     },
     {
-      "id": "item-58a73e23-7001-4cdf-a844-0d8517e36ab0",
-      "indent": 0,
-      "location": "pages/item-58a73e23-7001-4cdf-a844-0d8517e36ab0/index.html",
-      "slug": "pengantar",
-      "order": 12,
-      "parent": null,
-      "title": "Pengantar",
-      "description": "\nDi era serba digital, kemampuan membuat konten yang menarik dan bertanggung jawab adalah keterampilan yang sangat berharga, termasuk untuk tugas proyek Informatika Anda. Konten digital hadir dalam b",
-      "metadata": {
-        "created": 1747190557,
-        "updated": 1747219411,
-        "images": {},
-        "videos": {},
-        "theme": {
-          "element": "learn-two-theme",
-          "path": "@haxtheweb/learn-two-theme/learn-two-theme.js",
-          "name": "Learn theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
-          "key": "learn-two-theme"
-        },
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
       "id": "item-33d4c58e-c6a7-4c37-a573-09023f3981e8",
       "indent": 0,
       "location": "pages/item-bf18d7db-f641-4698-aa33-15d1d494e3cc/index.html",
