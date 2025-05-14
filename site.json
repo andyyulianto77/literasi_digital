@@ -686,7 +686,7 @@
     },
     {
       "id": "item-ad1eb8cd-d8f3-4e82-897d-e8ff40b227dc",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-ad1eb8cd-d8f3-4e82-897d-e8ff40b227dc/index.html",
       "slug": "topik-3-membuat-konten/langkah-4:-publikasi-dan-distribusi",
       "order": 3,
@@ -695,7 +695,7 @@
       "description": "Setelah konten selesai diproduksi, langkah selanjutnya adalah mempublikasikannya di platform yang telah dipilih. Optimalkan konten dengan menambahkan judul yang menarik, deskripsi yang informatif, da",
       "metadata": {
         "created": 1747229675,
-        "updated": 1747233720,
+        "updated": 1747264960,
         "images": {},
         "videos": {},
         "published": true,
