@@ -18,3 +18,8 @@ best practices. A watch is happening that will automatically build it for ES6 / 
 ## Building to ship
 
 To build to ship to all browsers that HAXcms supports, run `yarn run build`. Now you're good to go!
+
+Kode warna
+
+color: #3E0B04;
+roar golder, white
