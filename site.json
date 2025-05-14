@@ -177,11 +177,11 @@
       "slug": "topik-1:-membaca-lateral:-kunci-mengungkap-fakta-di-tengah-arus-hoaks",
       "order": 0,
       "parent": null,
-      "title": "Topik 1: Membaca Lateral: Kunci Mengungkap Fakta di Tengah Arus Hoaks",
+      "title": "Topik 1 Membaca Lateral",
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747221990,
+        "updated": 1747222151,
         "images": {},
         "videos": {},
         "published": true,
@@ -194,7 +194,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         },
         "image": "files/Teh-tawar-manis-600x600.jpg",
         "accentColor": "purple"
