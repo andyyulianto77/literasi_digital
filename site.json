@@ -332,34 +332,6 @@
       }
     },
     {
-      "id": "item-46f4686a-17bc-4400-8f57-a756c53f1803",
-      "indent": 1,
-      "location": "pages/item-46f4686a-17bc-4400-8f57-a756c53f1803/index.html",
-      "slug": "topik-1-membaca-lateral/mengenal-chatgpt-dan-ai-untuk-verifikasi",
-      "order": 4,
-      "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
-      "title": "Mengenal ChatGPT dan AI untuk Verifikasi",
-      "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
-      "metadata": {
-        "created": 1747115237,
-        "updated": 1747222810,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 2,
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        }
-      }
-    },
-    {
       "id": "item-d2b73300-50c4-4554-a801-0f748cb1b468",
       "indent": 1,
       "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
