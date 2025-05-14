@@ -568,34 +568,6 @@
         "readtime": 1,
         "status": ""
       }
-    },
-    {
-      "id": "item-07028436-8f26-4ccb-9611-8e5e7bbf48e0",
-      "indent": 0,
-      "location": "pages/item-07028436-8f26-4ccb-9611-8e5e7bbf48e0/index.html",
-      "slug": "topik-3:-membuat-konten-digital-keren",
-      "order": 0,
-      "parent": null,
-      "title": "Topik 3: Membuat Konten Digital Keren",
-      "description": "\n\n\nBy the end of this lesson, you should be able to...\n",
-      "metadata": {
-        "created": 1747190382,
-        "updated": 1747222741,
-        "images": {},
-        "videos": {},
-        "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
-        },
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
     }
   ]
 }
