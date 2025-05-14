@@ -852,13 +852,17 @@
       "slug": "page-1",
       "order": 9,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Sumber Daya",
+      "description": "Klik tautan di bawah ini untuk mengakses sumber daya untuk membantu Anda sukses dalam perjalanan penemuan pelanggan Anda.&#160;\nBahan:\n\n",
       "metadata": {
         "created": 1747265647,
-        "updated": 1747265647,
-        "images": [],
-        "videos": []
+        "updated": 1747265727,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
