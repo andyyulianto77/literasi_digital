@@ -414,7 +414,17 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 2
+        "readtime": 2,
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/free-photo-of-chat-gpt-on-computer-screen.jpeg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/free-photo-of-chat-gpt-on-computer-screen.jpeg",
+            "url": "files/free-photo-of-chat-gpt-on-computer-screen.jpeg",
+            "type": "image/jpeg",
+            "name": "free-photo-of-chat-gpt-on-computer-screen.jpeg",
+            "size": 1414552
+          }
+        ]
       }
     },
     {
