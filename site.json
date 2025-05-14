@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747222307,
+      "updated": 1747222397,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -65,13 +65,13 @@
       "indent": 0,
       "location": "pages/item-d3dafcf5-5d32-46d4-99b2-124b2051d5e0/index.html",
       "slug": "welcome-to-mysite",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "Welcome to mysite",
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747222295,
+        "updated": 1747222386,
         "published": true,
         "locked": false,
         "status": "",
@@ -94,7 +94,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747222306,
+        "updated": 1747222396,
         "images": {},
         "videos": {},
         "files": [
@@ -119,13 +119,13 @@
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
       "slug": "literasi-digital",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Literasi Digital",
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747222296,
+        "updated": 1747222387,
         "images": {},
         "videos": {},
         "published": true,
@@ -147,13 +147,13 @@
       "indent": 0,
       "location": "pages/item-3f27caa2-5fc6-4aac-9b65-d2db7d503006/index.html",
       "slug": "memulai",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Memulai",
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747222296,
+        "updated": 1747222387,
         "images": {},
         "videos": {},
         "published": true,
@@ -175,13 +175,13 @@
       "indent": 0,
       "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
       "slug": "topik-1-membaca-lateral",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Topik 1 Membaca Lateral",
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747222297,
+        "updated": 1747222388,
         "images": {},
         "videos": {},
         "published": true,
@@ -214,13 +214,13 @@
       "indent": 0,
       "location": "pages/item-67442a03-f879-49d5-987f-df11d0eca5a4/index.html",
       "slug": "pengantar-membaca-lateral",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Pengantar Membaca Lateral",
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747222298,
+        "updated": 1747222389,
         "images": {},
         "videos": {},
         "published": true,
@@ -258,7 +258,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747222301,
+        "updated": 1747222391,
         "images": {},
         "videos": {},
         "published": true,
@@ -298,13 +298,13 @@
       "indent": 0,
       "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
       "slug": "langkah:-buka-beberapa-sumber-pembanding",
-      "order": 6,
+      "order": 0,
       "parent": null,
       "title": "Langkah: Buka beberapa sumber pembanding",
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747222299,
+        "updated": 1747222385,
         "images": {},
         "videos": {},
         "published": true,
@@ -343,7 +343,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747222300,
+        "updated": 1747222390,
         "images": {},
         "videos": {},
         "published": true,
@@ -381,7 +381,7 @@
       "description": "Apa Itu Literasi Digital?\nKemunculan kecerdasan buatan dalam kehidupan sehari-hari bukan lagi sekadar wacana futuristik. Salah satu bentuk nyatanya adalah ChatGPT, sebuah model AI berbasis bahasa yan",
       "metadata": {
         "created": 1747115237,
-        "updated": 1747222301,
+        "updated": 1747222391,
         "images": {},
         "videos": {},
         "published": true,
@@ -403,13 +403,13 @@
       "indent": 0,
       "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
       "slug": "topik-2-jurus-menggunakan-mesin-pencari",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Topik 2 Jurus Menggunakan Mesin Pencari",
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747222299,
+        "updated": 1747222389,
         "images": {},
         "videos": {},
         "published": true,
@@ -438,7 +438,7 @@
       "description": "Operator Pencarian\nPenggunaan tanda kutip, simbol minus, dan pencarian dalam situs tertentu (site:) juga merupakan cara cerdas menyaring hasil. Dengan kata lain, mesin pencari bukan hanya alat, tetap",
       "metadata": {
         "created": 1747177495,
-        "updated": 1747222304,
+        "updated": 1747222394,
         "images": {},
         "videos": {},
         "theme": {
@@ -466,7 +466,7 @@
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177533,
-        "updated": 1747222303,
+        "updated": 1747222393,
         "images": {},
         "videos": {},
         "published": false,
@@ -487,7 +487,7 @@
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747222302,
+        "updated": 1747222393,
         "images": {},
         "videos": {},
         "theme": {
@@ -515,7 +515,7 @@
       "description": "Set Pada Mesin\nSelalu perhatikan kapan artikel atau data tersebut diterbitkan. Informasi lama bisa jadi sudah tidak relevan, terutama untuk isu-isu yang berkembang cepat seperti teknologi, kebijakan,",
       "metadata": {
         "created": 1747177972,
-        "updated": 1747222304,
+        "updated": 1747222394,
         "images": {},
         "videos": {},
         "theme": {
@@ -543,7 +543,7 @@
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747222302,
+        "updated": 1747222392,
         "images": {},
         "videos": {},
         "published": true,
@@ -571,7 +571,7 @@
       "description": "\n\n\nBy the end of this lesson, you should be able to...\n",
       "metadata": {
         "created": 1747190382,
-        "updated": 1747222305,
+        "updated": 1747222395,
         "images": {},
         "videos": {},
         "theme": {
