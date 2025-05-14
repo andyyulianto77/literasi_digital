@@ -762,19 +762,21 @@
       "id": "item-7fac6096-4796-41b5-addd-4a60e024085f",
       "indent": 0,
       "location": "pages/item-7fac6096-4796-41b5-addd-4a60e024085f/index.html",
-      "slug": "page",
+      "slug": "topik-4-warga-digital",
       "order": 5,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Topik 4: Menjadi Warga Digital Beretika",
+      "description": "Menghadapi Dilema Online dan Menjawab Soal Refleksi\nMenjadi warga dunia maya berarti lebih dari sekadar aktif berselancar atau berinteraksi. Kehadiran dalam ruang digital menuntut tanggung jawab mora",
       "metadata": {
         "created": 1747230571,
-        "updated": 1747233722,
-        "images": [],
-        "videos": [],
+        "updated": 1747234007,
+        "images": {},
+        "videos": {},
         "published": true,
         "locked": false,
-        "status": ""
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
