@@ -577,6 +577,22 @@
         "readtime": 1,
         "status": ""
       }
+    },
+    {
+      "id": "item-6e95fc6e-b0f7-443d-9fa0-e6f2e00d8d2b",
+      "indent": 0,
+      "location": "pages/item-6e95fc6e-b0f7-443d-9fa0-e6f2e00d8d2b/index.html",
+      "slug": "page",
+      "order": 2,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1747222050,
+        "updated": 1747222050,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
