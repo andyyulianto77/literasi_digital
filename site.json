@@ -806,13 +806,17 @@
       "slug": "topik-4-warga-digital/page-1",
       "order": 1,
       "parent": "item-7fac6096-4796-41b5-addd-4a60e024085f",
-      "title": "Page",
-      "description": "",
+      "title": "Memahami Ekspektasi Beretika",
+      "description": "Memahami ekspektasi beretika dalam dunia digital berarti menyadari bahwa setiap tindakan daring memiliki konsekuensi, baik bagi diri sendiri maupun orang lain. Etika digital bukan sekadar aturan tert",
       "metadata": {
         "created": 1747234162,
-        "updated": 1747234162,
-        "images": [],
-        "videos": []
+        "updated": 1747234362,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
