@@ -818,6 +818,22 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-b8f832eb-c2a2-498e-93ed-deb2e8c38a86",
+      "indent": 0,
+      "location": "pages/item-b8f832eb-c2a2-498e-93ed-deb2e8c38a86/index.html",
+      "slug": "topik-4-warga-digital/page-2",
+      "order": 2,
+      "parent": "item-7fac6096-4796-41b5-addd-4a60e024085f",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1747234743,
+        "updated": 1747234743,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
