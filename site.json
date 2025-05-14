@@ -153,7 +153,7 @@
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747222805,
+        "updated": 1747230493,
         "images": {},
         "videos": {},
         "published": true,
@@ -166,7 +166,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         }
       }
     },
