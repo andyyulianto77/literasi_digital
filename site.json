@@ -297,14 +297,14 @@
       "id": "item-d2b73300-50c4-4554-a801-0f748cb1b468",
       "indent": 0,
       "location": "pages/item-d2b73300-50c4-4554-a801-0f748cb1b468/index.html",
-      "slug": "langkah:-buka-beberapa-sumber-pembanding",
+      "slug": "langkah-buka-2",
       "order": 0,
       "parent": null,
-      "title": "Langkah: Buka beberapa sumber pembanding",
+      "title": "Langkah Buka beberapa sumber pembanding",
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747222385,
+        "updated": 1747222471,
         "images": {},
         "videos": {},
         "published": true,
@@ -327,7 +327,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         },
         "accentColor": "teal"
       }
