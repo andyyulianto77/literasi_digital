@@ -395,31 +395,22 @@
       "slug": "topik-2:-jurus-jitu-menggunakan-mesin-pencari",
       "order": 0,
       "parent": null,
-      "title": "Topik 2: Jurus Jitu Menggunakan Mesin Pencari",
+      "title": "Topik 2 Jurus Menggunakan Mesin Pencari",
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747221711,
+        "updated": 1747221830,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "theme": {
-          "element": "polaris-invent-theme",
-          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-          "name": "Polaris - Invent",
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "variables": {
-            "image": "",
-            "imageAlt": null,
-            "imageLink": null,
-            "hexCode": null,
-            "cssVariable": "--simple-colors-default-theme-null-7",
-            "icon": null
-          },
-          "regions": {},
-          "key": "polaris-invent-theme"
+          "key": "clean-two"
         },
         "hideInMenu": false,
         "readtime": 1,
