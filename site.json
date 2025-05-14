@@ -148,6 +148,14 @@
             "type": "image/jpeg",
             "name": "pexels-julia-m-cameron-4145078.jpg",
             "size": 70172
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/topik-literasi.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/topik-literasi.png",
+            "url": "files/topik-literasi.png",
+            "type": "image/png",
+            "name": "topik-literasi.png",
+            "size": 205728
           }
         ]
       }
