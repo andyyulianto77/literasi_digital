@@ -633,25 +633,6 @@
         "readtime": 1,
         "status": ""
       }
-    },
-    {
-      "id": "item-bf18d7db-f641-4698-aa33-15d1d494e3cc",
-      "indent": 0,
-      "location": "pages/item-bf18d7db-f641-4698-aa33-15d1d494e3cc/index.html",
-      "slug": "page",
-      "order": 3,
-      "parent": null,
-      "title": "Page",
-      "description": "",
-      "metadata": {
-        "created": 1747213688,
-        "updated": 1747219242,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
     }
   ]
 }
