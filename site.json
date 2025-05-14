@@ -401,16 +401,20 @@
       "id": "item-c8d578a1-bc1a-477d-8be7-b0f925cf3937",
       "indent": 0,
       "location": "pages/item-c8d578a1-bc1a-477d-8be7-b0f925cf3937/index.html",
-      "slug": "topik-1-membaca-lateral/page",
+      "slug": "topik-1-membaca-lateral/kenal-chatgpt",
       "order": 4,
       "parent": "item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3",
-      "title": "Page",
-      "description": "",
+      "title": "Langkah: Mengenal ChatGPT &amp; AI untuk Verifikasi",
+      "description": "ChatGPT, seperti halnya mesin pencari atau situs cek fakta, dapat digunakan untuk menelusuri konteks suatu isu, mengenali kesenjangan dalam narasi, hingga menyarankan sumber terpercaya. Fungsinya buk",
       "metadata": {
         "created": 1747224075,
-        "updated": 1747224075,
-        "images": [],
-        "videos": []
+        "updated": 1747224288,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 2
       }
     },
     {
