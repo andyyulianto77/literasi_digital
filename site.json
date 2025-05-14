@@ -488,15 +488,15 @@
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747187220,
+        "updated": 1747187237,
         "images": {},
         "videos": {},
         "theme": {
-          "element": "polaris-invent-theme",
-          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-          "name": "Polaris - Invent",
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "polaris-invent-theme"
+          "key": "clean-two"
         },
         "published": true,
         "hideInMenu": false,
