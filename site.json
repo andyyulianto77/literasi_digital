@@ -186,7 +186,17 @@
             "icon": null
           },
           "regions": {}
-        }
+        },
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/bingung.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/bingung.jpg",
+            "url": "files/bingung.jpg",
+            "type": "image/jpeg",
+            "name": "bingung.jpg",
+            "size": 58473
+          }
+        ]
       }
     },
     {
