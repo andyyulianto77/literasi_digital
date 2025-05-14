@@ -671,13 +671,17 @@
       "slug": "topik3-konten-digital/page-2",
       "order": 2,
       "parent": "item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4",
-      "title": "Page",
-      "description": "",
+      "title": "Langkah 3: Produksi",
+      "description": "\n\nTahap produksi melibatkan pembuatan konten sesuai dengan naskah dan storyboard yang telah disusun. Gunakan peralatan dan perangkat lunak yang sesuai untuk menghasilkan konten berkualitas tinggi. Mi",
       "metadata": {
         "created": 1747229574,
-        "updated": 1747229574,
-        "images": [],
-        "videos": []
+        "updated": 1747229644,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
