@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747217251,
+      "updated": 1747218028,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,11 +35,10 @@
       "static": {}
     },
     "theme": {
-      "element": "clean-two",
-      "path": "@haxtheweb/clean-two/clean-two.js",
-      "name": "Clean two theme",
+      "element": "polaris-flex-sidebar",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-flex-sidebar.js",
+      "name": "Polaris - Flex Sidebar",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-      "key": "clean-two",
       "variables": {
         "image": "",
         "imageAlt": null,
