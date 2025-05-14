@@ -404,11 +404,11 @@
       "slug": "topik-2-jurus-menggunakan-mesin-pencari",
       "order": 3,
       "parent": null,
-      "title": "Topik 2 Jurus Menggunakan Mesin Pencari",
+      "title": "Topik 2: Jurus Menggunakan Mesin Pencari",
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747222810,
+        "updated": 1747223378,
         "images": {},
         "videos": {},
         "published": true,
@@ -419,7 +419,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         },
         "hideInMenu": false,
         "readtime": 1,
