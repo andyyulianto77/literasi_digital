@@ -465,16 +465,16 @@
     },
     {
       "id": "item-ac7344f6-5aa8-4ddc-935c-7a8d03e991d3",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-ac7344f6-5aa8-4ddc-935c-7a8d03e991d3/index.html",
       "slug": "topik-2-jurus-menggunakan-mesin-pencari/langkah-menggunakan-kata-kunci",
       "order": 1,
       "parent": "item-665d6cf3-49f9-4051-8ba8-bf350efe4af0",
-      "title": "Langkah Menggunakan Kata Kunci",
+      "title": "Langkah 1: Menggunakan Kata Kunci",
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747222812,
+        "updated": 1747223690,
         "images": {},
         "videos": {},
         "theme": {
@@ -482,7 +482,16 @@
           "path": "@haxtheweb/clean-two/clean-two.js",
           "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "key": "clean-two",
+          "variables": {
+            "image": "",
+            "imageAlt": null,
+            "imageLink": null,
+            "hexCode": null,
+            "cssVariable": "--simple-colors-default-theme-null-7",
+            "icon": null
+          },
+          "regions": {}
         },
         "published": true,
         "hideInMenu": false,
