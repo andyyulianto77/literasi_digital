@@ -279,7 +279,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747185666,
+        "updated": 1747185690,
         "images": {},
         "videos": {},
         "published": true,
@@ -296,7 +296,14 @@
             "name": "ChatGPT-Image-May-13,-2025,-12_49_31-PM-sumber-pembanding.png",
             "size": 2106269
           }
-        ]
+        ],
+        "theme": {
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+          "key": "clean-two"
+        }
       }
     },
     {
