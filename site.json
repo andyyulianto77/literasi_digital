@@ -964,6 +964,14 @@
             "type": "image/jpeg",
             "name": "pexels-contact-me-923323219715-262056873-12714642.jpg",
             "size": 52495
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/praktek.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/praktek.jpg",
+            "url": "files/praktek.jpg",
+            "type": "image/jpeg",
+            "name": "praktek.jpg",
+            "size": 64443
           }
         ],
         "status": "",
