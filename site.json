@@ -61,29 +61,6 @@
   },
   "items": [
     {
-      "id": "item-d3dafcf5-5d32-46d4-99b2-124b2051d5e0",
-      "indent": 0,
-      "location": "pages/item-d3dafcf5-5d32-46d4-99b2-124b2051d5e0/index.html",
-      "slug": "welcome-to-mysite",
-      "order": 9,
-      "parent": null,
-      "title": "Welcome to mysite",
-      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
-      "metadata": {
-        "created": 1743816556,
-        "updated": 1747318380,
-        "published": false,
-        "locked": false,
-        "status": "",
-        "pageType": "assessment",
-        "hideInMenu": true,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "icon": "lrn:assessment"
-      }
-    },
-    {
       "id": "item-4da90af0-486d-424d-8a35-e4439302ea3a",
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
