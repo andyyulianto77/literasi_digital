@@ -993,7 +993,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "icon": "hax:module"
+        "icon": "hax:module",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/logo-sman-4-kediri.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/logo-sman-4-kediri.png",
+            "url": "files/logo-sman-4-kediri.png",
+            "type": "image/png",
+            "name": "logo-sman-4-kediri.png",
+            "size": 173106
+          }
+        ]
       }
     }
   ]
