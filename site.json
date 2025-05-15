@@ -971,16 +971,28 @@
       "id": "item-4797788f-3344-417a-aa1f-7c4eff50a860",
       "indent": 0,
       "location": "pages/item-4797788f-3344-417a-aa1f-7c4eff50a860/index.html",
-      "slug": "page",
-      "order": 1,
+      "slug": "selamat-datang",
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "MEDIA WEB INTERAKTIF",
+      "description": "&#160; LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747311533,
-        "images": [],
-        "videos": []
+        "updated": 1747311647,
+        "images": {},
+        "videos": {},
+        "theme": {
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
+        },
+        "published": true,
+        "pageType": "module",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
