@@ -693,7 +693,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/naskah.jpeg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/naskah.jpeg",
+            "url": "files/naskah.jpeg",
+            "type": "image/jpeg",
+            "name": "naskah.jpeg",
+            "size": 1250068
+          }
+        ]
       }
     },
     {
