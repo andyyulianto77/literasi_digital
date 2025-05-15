@@ -590,14 +590,14 @@
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747264293,
+        "updated": 1747302952,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 1,
+        "readtime": 2,
         "theme": {
           "element": "clean-two",
           "path": "@haxtheweb/clean-two/clean-two.js",
