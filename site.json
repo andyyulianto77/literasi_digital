@@ -94,7 +94,7 @@
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747313896,
+        "updated": 1747318298,
         "images": {},
         "videos": {},
         "files": [
@@ -108,7 +108,7 @@
           }
         ],
         "published": false,
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 28,
         "status": ""
