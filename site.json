@@ -972,13 +972,13 @@
       "indent": 0,
       "location": "pages/item-4797788f-3344-417a-aa1f-7c4eff50a860/index.html",
       "slug": "selamat-datang",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "MEDIA WEB INTERAKTIF",
-      "description": "&#160; LITERASI DIGITAL\n",
+      "description": "  LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747311647,
+        "updated": 1747311864,
         "images": {},
         "videos": {},
         "theme": {
@@ -992,7 +992,8 @@
         "pageType": "module",
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "icon": "hax:module"
       }
     }
   ]
