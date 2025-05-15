@@ -1010,6 +1010,14 @@
             "type": "image/png",
             "name": "jatim.png",
             "size": 95579
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/pexels-contact-me-923323219715-262056873-12714642.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/pexels-contact-me-923323219715-262056873-12714642.jpg",
+            "url": "files/pexels-contact-me-923323219715-262056873-12714642.jpg",
+            "type": "image/jpeg",
+            "name": "pexels-contact-me-923323219715-262056873-12714642.jpg",
+            "size": 52495
           }
         ],
         "status": ""
