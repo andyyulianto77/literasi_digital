@@ -978,15 +978,15 @@
       "description": "  LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747313872,
+        "updated": 1747314127,
         "images": {},
         "videos": {},
         "theme": {
-          "element": "clean-two",
-          "path": "@haxtheweb/clean-two/clean-two.js",
-          "name": "Clean two theme",
-          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "clean-two"
+          "element": "haxcms-blank-theme",
+          "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+          "name": "Blank theme",
+          "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+          "key": "haxcms-blank-theme"
         },
         "published": true,
         "pageType": "module",
