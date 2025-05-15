@@ -745,7 +745,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-15,-2025,-05_37_24-PM-publikasi.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/ChatGPT-Image-May-15,-2025,-05_37_24-PM-publikasi.png",
+            "url": "files/ChatGPT-Image-May-15,-2025,-05_37_24-PM-publikasi.png",
+            "type": "image/png",
+            "name": "ChatGPT-Image-May-15,-2025,-05_37_24-PM-publikasi.png",
+            "size": 1994173
+          }
+        ]
       }
     },
     {
