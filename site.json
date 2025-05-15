@@ -483,6 +483,14 @@
             "type": "image/png",
             "name": "operator-search.png",
             "size": 144836
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/operator.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/operator.png",
+            "url": "files/operator.png",
+            "type": "image/png",
+            "name": "operator.png",
+            "size": 318883
           }
         ]
       }
