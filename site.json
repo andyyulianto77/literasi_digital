@@ -978,7 +978,7 @@
       "description": "  LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747318054,
+        "updated": 1747318168,
         "images": {},
         "videos": {},
         "theme": {
@@ -990,7 +990,7 @@
         },
         "published": true,
         "pageType": "module",
-        "hideInMenu": false,
+        "hideInMenu": true,
         "locked": false,
         "readtime": 1,
         "icon": "hax:module",
@@ -1020,7 +1020,8 @@
             "size": 52495
           }
         ],
-        "status": ""
+        "status": "",
+        "accentColor": "purple"
       }
     }
   ]
