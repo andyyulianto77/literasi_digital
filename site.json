@@ -194,6 +194,14 @@
             "type": "image/jpeg",
             "name": "bingung.jpg",
             "size": 58473
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/phone.jpeg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/phone.jpeg",
+            "url": "files/phone.jpeg",
+            "type": "image/jpeg",
+            "name": "phone.jpeg",
+            "size": 5994
           }
         ]
       }
