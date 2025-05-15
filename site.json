@@ -408,6 +408,14 @@
             "type": "image/png",
             "name": "membaca-lateral.png",
             "size": 1757579
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/membaca-lateral.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/membaca-lateral.jpg",
+            "url": "files/membaca-lateral.jpg",
+            "type": "image/jpeg",
+            "name": "membaca-lateral.jpg",
+            "size": 42699
           }
         ],
         "status": "",
