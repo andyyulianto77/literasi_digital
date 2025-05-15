@@ -972,21 +972,21 @@
       "indent": 0,
       "location": "pages/item-4797788f-3344-417a-aa1f-7c4eff50a860/index.html",
       "slug": "selamat-datang",
-      "order": 6,
+      "order": 7,
       "parent": null,
       "title": "MEDIA WEB INTERAKTIF",
       "description": "  LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747313800,
+        "updated": 1747313841,
         "images": {},
         "videos": {},
         "theme": {
-          "element": "polaris-invent-theme",
-          "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
-          "name": "Polaris - Invent",
+          "element": "clean-two",
+          "path": "@haxtheweb/clean-two/clean-two.js",
+          "name": "Clean two theme",
           "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
-          "key": "polaris-invent-theme"
+          "key": "clean-two"
         },
         "published": true,
         "pageType": "module",
