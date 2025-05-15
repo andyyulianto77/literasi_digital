@@ -84,37 +84,6 @@
       }
     },
     {
-      "id": "item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7",
-      "indent": 0,
-      "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
-      "slug": "hasil-copilot-github",
-      "order": 10,
-      "parent": null,
-      "title": "Hasil Copilot Github",
-      "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
-      "metadata": {
-        "created": 1743816595,
-        "updated": 1747318298,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "/home/andy/git/mysite/files/Teh-tawar-manis-600x600.jpg",
-            "fullUrl": "//home/andy/git/mysite/files/Teh-tawar-manis-600x600.jpg",
-            "url": "files/Teh-tawar-manis-600x600.jpg",
-            "type": "image/jpeg",
-            "name": "Teh-tawar-manis-600x600.jpg",
-            "size": 51880
-          }
-        ],
-        "published": false,
-        "hideInMenu": true,
-        "locked": false,
-        "readtime": 28,
-        "status": ""
-      }
-    },
-    {
       "id": "item-4da90af0-486d-424d-8a35-e4439302ea3a",
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
