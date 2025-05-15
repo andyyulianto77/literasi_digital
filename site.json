@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747309754,
+      "updated": 1747313897,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -65,13 +65,13 @@
       "indent": 0,
       "location": "pages/item-d3dafcf5-5d32-46d4-99b2-124b2051d5e0/index.html",
       "slug": "welcome-to-mysite",
-      "order": 8,
+      "order": 9,
       "parent": null,
       "title": "Welcome to mysite",
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nWhat can I do?\nWe've got a ton of blocks that are easy to use and get a lot done with little effort, so much in fact we made a l",
       "metadata": {
         "created": 1743816556,
-        "updated": 1747309753,
+        "updated": 1747313895,
         "published": false,
         "locked": false,
         "status": "",
@@ -88,13 +88,13 @@
       "indent": 0,
       "location": "pages/item-eb6e4126-9f1e-4735-a5f5-638d5288c0c7/index.html",
       "slug": "hasil-copilot-github",
-      "order": 9,
+      "order": 10,
       "parent": null,
       "title": "Hasil Copilot Github",
       "description": "vdsfdsfd\n\nfa\nsdf\nsaf\n\n\n\n\n\ndsa\nfds\n\n\n\n\n",
       "metadata": {
         "created": 1743816595,
-        "updated": 1747309753,
+        "updated": 1747313896,
         "images": {},
         "videos": {},
         "files": [
@@ -119,13 +119,13 @@
       "indent": 0,
       "location": "pages/item-4da90af0-486d-424d-8a35-e4439302ea3a/index.html",
       "slug": "literasi-digital",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "Literasi Digital",
       "description": "sadsaddsadsa\n",
       "metadata": {
         "created": 1743816598,
-        "updated": 1747309733,
+        "updated": 1747313873,
         "images": {},
         "videos": {},
         "published": true,
@@ -165,13 +165,13 @@
       "indent": 0,
       "location": "pages/item-3f27caa2-5fc6-4aac-9b65-d2db7d503006/index.html",
       "slug": "memulai",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Memulai",
       "description": "Menemukan Guru Tepat\nMenemukan guru yang tepat adalah kunci sukses dalam perjalanan belajar literasi digital dan informatika. Seperti seorang pelaut yang membutuhkan kompas andal, Anda memerlukan sos",
       "metadata": {
         "created": 1747103494,
-        "updated": 1747309734,
+        "updated": 1747313874,
         "images": {},
         "videos": {},
         "published": true,
@@ -211,13 +211,13 @@
       "indent": 0,
       "location": "pages/item-df9d4f80-7031-4a39-8a1b-1ef40642d4d3/index.html",
       "slug": "topik-1-membaca",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "Topik 1: Membaca Lateral",
       "description": "\n\nPada akhir materi pelajaran, Anda diharapkan dapat:MembacaMMM\n\n\n\n\n\n1\n\n\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747106992,
-        "updated": 1747309735,
+        "updated": 1747313875,
         "images": {},
         "videos": {},
         "published": true,
@@ -247,7 +247,7 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747309736,
+        "updated": 1747313876,
         "images": {},
         "videos": {},
         "published": true,
@@ -293,7 +293,7 @@
       "description": "Bandingkan Fakta, Tanggal, dan Kutipan di Berbagai Platform\nKetelitian dalam mencermati fakta, tanggal, dan kutipan menjadi elemen penting dalam memahami keabsahan informasi. Perbandingan antara satu",
       "metadata": {
         "created": 1747109817,
-        "updated": 1747309738,
+        "updated": 1747313878,
         "images": {},
         "videos": {},
         "published": true,
@@ -331,7 +331,7 @@
       "description": "\nApa Itu Literasi Digital?\nBuka beberapa sumber pembanding\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747109049,
-        "updated": 1747309737,
+        "updated": 1747313877,
         "images": {},
         "videos": {},
         "published": true,
@@ -370,7 +370,7 @@
       "description": "ChatGPT, seperti halnya mesin pencari atau situs cek fakta, dapat digunakan untuk menelusuri konteks suatu isu, mengenali kesenjangan dalam narasi, hingga menyarankan sumber terpercaya. Fungsinya buk",
       "metadata": {
         "created": 1747224075,
-        "updated": 1747309739,
+        "updated": 1747313879,
         "images": {},
         "videos": {},
         "published": true,
@@ -401,7 +401,7 @@
       "description": "Di era informasi instan ini, berita palsu (hoaks) dapat tersebar dalam hitungan detik. Bagi siswa/murid yang sedang mempersiapkan belajar Literasi Digital, kemampuan membaca lateral—yakni menel",
       "metadata": {
         "created": 1747108329,
-        "updated": 1747309735,
+        "updated": 1747313875,
         "images": {},
         "videos": {},
         "published": true,
@@ -441,13 +441,13 @@
       "indent": 0,
       "location": "pages/item-665d6cf3-49f9-4051-8ba8-bf350efe4af0/index.html",
       "slug": "topik-2-jurus-mesin-pencari",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "Topik 2: Jurus Menggunakan Mesin Pencari",
       "description": "tujuan pembelajaran lilterasi",
       "metadata": {
         "created": 1747108200,
-        "updated": 1747309740,
+        "updated": 1747313880,
         "images": {},
         "videos": {},
         "published": true,
@@ -476,7 +476,7 @@
       "description": "Operator Pencarian\nPenggunaan tanda kutip, simbol minus, dan pencarian dalam situs tertentu (site:) juga merupakan cara cerdas menyaring hasil. Dengan kata lain, mesin pencari bukan hanya alat, tetap",
       "metadata": {
         "created": 1747177495,
-        "updated": 1747309742,
+        "updated": 1747313883,
         "images": {},
         "videos": {},
         "theme": {
@@ -522,7 +522,7 @@
       "description": "Kata Kunci Spesifik\nSalah satu kunci dalam riset berbasis mesin pencari adalah kemampuan menyusun kata kunci yang tepat. Frasa yang lebih spesifik akan menghasilkan hasil yang lebih relevan. Misalnya",
       "metadata": {
         "created": 1747177580,
-        "updated": 1747309741,
+        "updated": 1747313882,
         "images": {},
         "videos": {},
         "theme": {
@@ -568,7 +568,7 @@
       "description": "Set Pada Mesin\nSelalu perhatikan kapan artikel atau data tersebut diterbitkan. Informasi lama bisa jadi sudah tidak relevan, terutama untuk isu-isu yang berkembang cepat seperti teknologi, kebijakan,",
       "metadata": {
         "created": 1747177972,
-        "updated": 1747309743,
+        "updated": 1747313884,
         "images": {},
         "videos": {},
         "theme": {
@@ -606,7 +606,7 @@
       "description": "Apa Itu Literasi Digital?\n\n\n\n\n\nMengapa Literasi Digital Penting untuk Siswa/Pelajar?\n\n\nTopik \nTopik \nTopik \n\n\n\n\n",
       "metadata": {
         "created": 1747115255,
-        "updated": 1747309741,
+        "updated": 1747313881,
         "images": {},
         "videos": {},
         "published": true,
@@ -638,13 +638,13 @@
       "indent": 0,
       "location": "pages/item-78e7ac1c-2662-473d-bbba-34fdfa6da7d4/index.html",
       "slug": "topik-3-membuat-konten",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "Topik 3: Membuat Konten Digital Keren dan Bertanggung Jawab",
       "description": "\n",
       "metadata": {
         "created": 1747225280,
-        "updated": 1747309743,
+        "updated": 1747313885,
         "images": {},
         "videos": {},
         "published": true,
@@ -665,7 +665,7 @@
       "description": "Langkah awal dalam produksi konten digital adalah melakukan riset dan perencanaan yang matang. Identifikasi topik yang relevan dengan audiens target dan tentukan tujuan dari konten yang akan dibuat. ",
       "metadata": {
         "created": 1747227303,
-        "updated": 1747309744,
+        "updated": 1747313886,
         "images": {},
         "videos": {},
         "published": true,
@@ -686,7 +686,7 @@
       "description": "Setelah perencanaan selesai, langkah berikutnya adalah menulis naskah atau script untuk konten yang akan dibuat. Gunakan bahasa yang jelas, ringkas, dan sesuai dengan gaya komunikasi audiens. Pastika",
       "metadata": {
         "created": 1747229428,
-        "updated": 1747309745,
+        "updated": 1747313886,
         "images": {},
         "videos": {},
         "published": true,
@@ -725,7 +725,7 @@
       "description": "\n\nTahap produksi melibatkan pembuatan konten sesuai dengan naskah dan storyboard yang telah disusun. Gunakan peralatan dan perangkat lunak yang sesuai untuk menghasilkan konten berkualitas tinggi. Mi",
       "metadata": {
         "created": 1747229574,
-        "updated": 1747309746,
+        "updated": 1747313888,
         "images": {},
         "videos": {},
         "published": true,
@@ -756,7 +756,7 @@
       "description": "Setelah konten selesai diproduksi, langkah selanjutnya adalah mempublikasikannya di platform yang telah dipilih. Optimalkan konten dengan menambahkan judul yang menarik, deskripsi yang informatif, da",
       "metadata": {
         "created": 1747229675,
-        "updated": 1747309746,
+        "updated": 1747313888,
         "images": {},
         "videos": {},
         "published": true,
@@ -795,7 +795,7 @@
       "description": "angkah terakhir adalah melakukan refleksi terhadap proses dan hasil dari produksi konten. Tinjau kembali setiap tahap untuk mengidentifikasi apa yang telah berjalan dengan baik dan area yang perlu di",
       "metadata": {
         "created": 1747229915,
-        "updated": 1747309747,
+        "updated": 1747313889,
         "images": {},
         "videos": {},
         "published": true,
@@ -828,13 +828,13 @@
       "indent": 0,
       "location": "pages/item-7fac6096-4796-41b5-addd-4a60e024085f/index.html",
       "slug": "topik-4-warga-digital",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Topik 4: Menjadi Warga Digital Beretika",
       "description": "Menghadapi Dilema Online dan Menjawab Soal Refleksi\nMenjadi warga dunia maya berarti lebih dari sekadar aktif berselancar atau berinteraksi. Kehadiran dalam ruang digital menuntut tanggung jawab mora",
       "metadata": {
         "created": 1747230571,
-        "updated": 1747311286,
+        "updated": 1747313890,
         "images": {},
         "videos": {},
         "published": true,
@@ -846,7 +846,7 @@
     },
     {
       "id": "item-1845c5fe-925a-4798-b6cd-36de56323c67",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-1845c5fe-925a-4798-b6cd-36de56323c67/index.html",
       "slug": "topik-4-warga-digital/ekspetasi",
       "order": 0,
@@ -855,7 +855,7 @@
       "description": "Memahami ekspektasi beretika dalam dunia digital berarti menyadari bahwa setiap tindakan daring memiliki konsekuensi, baik bagi diri sendiri maupun orang lain. Etika digital bukan sekadar aturan tert",
       "metadata": {
         "created": 1747234162,
-        "updated": 1747311320,
+        "updated": 1747313891,
         "images": {},
         "videos": {},
         "published": true,
@@ -885,7 +885,7 @@
     },
     {
       "id": "item-082b64b1-8124-4be6-8d35-477d32731d5f",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-082b64b1-8124-4be6-8d35-477d32731d5f/index.html",
       "slug": "topik-4-warga-digital/langkah-profil",
       "order": 1,
@@ -894,7 +894,7 @@
       "description": "Memahami ekspektasi beretika dalam dunia digital mencakup empat pilar utama: bernalar kritis, bergotong royong, mandiri, dan kreatif. Setiap pilar ini membentuk dasar perilaku etis yang diperlukan un",
       "metadata": {
         "created": 1747234512,
-        "updated": 1747310618,
+        "updated": 1747313891,
         "images": {},
         "videos": {},
         "published": true,
@@ -915,7 +915,7 @@
       "description": "Model refleksi 4F—Facts, Feelings, Findings, Future—merupakan pendekatan yang efektif untuk menganalisis pengalaman pembelajaran secara mendalam. \nSetiap komponen dalam model ini mem",
       "metadata": {
         "created": 1747234743,
-        "updated": 1747309750,
+        "updated": 1747313892,
         "images": {},
         "videos": {},
         "published": true,
@@ -930,13 +930,13 @@
       "indent": 0,
       "location": "pages/item-d4d93387-b168-462b-b464-19559fb5046d/index.html",
       "slug": "langkah",
-      "order": 6,
+      "order": 7,
       "parent": null,
       "title": "Langkah Selanjutnya",
       "description": "\n",
       "metadata": {
         "created": 1747265265,
-        "updated": 1747309751,
+        "updated": 1747313893,
         "images": {},
         "videos": {},
         "published": true,
@@ -951,13 +951,13 @@
       "indent": 0,
       "location": "pages/item-b7186a9c-ee6a-4572-bb9c-3f35e5cf663c/index.html",
       "slug": "sumber-pustaka",
-      "order": 7,
+      "order": 8,
       "parent": null,
       "title": "Sumber Daya Pustaka",
       "description": "Klik tautan di bawah ini untuk mengakses sumber daya untuk membantu Anda sukses dalam perjalanan penemuan pelanggan Anda. \nBahan:\nBerikut daftar sumber daya dan referensi yang disusun dengan gay",
       "metadata": {
         "created": 1747265647,
-        "updated": 1747309752,
+        "updated": 1747313894,
         "images": {},
         "videos": {},
         "published": true,
@@ -972,13 +972,13 @@
       "indent": 0,
       "location": "pages/item-4797788f-3344-417a-aa1f-7c4eff50a860/index.html",
       "slug": "selamat-datang",
-      "order": 7,
+      "order": 0,
       "parent": null,
       "title": "MEDIA WEB INTERAKTIF",
       "description": "  LITERASI DIGITAL\n",
       "metadata": {
         "created": 1747311533,
-        "updated": 1747313841,
+        "updated": 1747313872,
         "images": {},
         "videos": {},
         "theme": {
@@ -1011,7 +1011,8 @@
             "name": "jatim.png",
             "size": 95579
           }
-        ]
+        ],
+        "status": ""
       }
     }
   ]
