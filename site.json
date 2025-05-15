@@ -1002,6 +1002,14 @@
             "type": "image/png",
             "name": "logo-sman-4-kediri.png",
             "size": 173106
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/jatim.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/jatim.png",
+            "url": "files/jatim.png",
+            "type": "image/png",
+            "name": "jatim.png",
+            "size": 95579
           }
         ]
       }
