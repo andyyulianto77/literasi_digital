@@ -521,7 +521,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/keyword.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/keyword.png",
+            "url": "files/keyword.png",
+            "type": "image/png",
+            "name": "keyword.png",
+            "size": 233895
+          }
+        ]
       }
     },
     {
