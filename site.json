@@ -702,6 +702,14 @@
             "type": "image/jpeg",
             "name": "naskah.jpeg",
             "size": 1250068
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/naskah.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/naskah.jpg",
+            "url": "files/naskah.jpg",
+            "type": "image/jpeg",
+            "name": "naskah.jpg",
+            "size": 56816
           }
         ]
       }
