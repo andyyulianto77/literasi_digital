@@ -885,7 +885,7 @@
     },
     {
       "id": "item-082b64b1-8124-4be6-8d35-477d32731d5f",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-082b64b1-8124-4be6-8d35-477d32731d5f/index.html",
       "slug": "topik-4-warga-digital/langkah-profil",
       "order": 1,
@@ -894,7 +894,7 @@
       "description": "Memahami ekspektasi beretika dalam dunia digital mencakup empat pilar utama: bernalar kritis, bergotong royong, mandiri, dan kreatif. Setiap pilar ini membentuk dasar perilaku etis yang diperlukan un",
       "metadata": {
         "created": 1747234512,
-        "updated": 1747309749,
+        "updated": 1747310416,
         "images": {},
         "videos": {},
         "published": true,
