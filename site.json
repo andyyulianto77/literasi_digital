@@ -483,7 +483,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/operator-search.png",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/operator-search.png",
+            "url": "files/operator-search.png",
+            "type": "image/png",
+            "name": "operator-search.png",
+            "size": 144836
+          }
+        ]
       }
     },
     {
