@@ -980,6 +980,14 @@
             "type": "image/jpeg",
             "name": "ae7867a1da264375d0c8380e5c95765e-praktek.jpg",
             "size": 64443
+          },
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/jawapos_logo.jpeg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/jawapos_logo.jpeg",
+            "url": "files/jawapos_logo.jpeg",
+            "type": "image/jpeg",
+            "name": "jawapos_logo.jpeg",
+            "size": 2812
           }
         ],
         "status": "",
