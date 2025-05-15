@@ -766,7 +766,17 @@
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/andyyulianto77/literasi_digital/files/refleksi.jpg",
+            "fullUrl": "//home/andyyulianto77/literasi_digital/files/refleksi.jpg",
+            "url": "files/refleksi.jpg",
+            "type": "image/jpeg",
+            "name": "refleksi.jpg",
+            "size": 23541
+          }
+        ]
       }
     },
     {
