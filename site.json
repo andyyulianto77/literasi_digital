@@ -184,7 +184,7 @@
     },
     {
       "id": "item-449396cc-7e03-46cf-a8c6-aeab2d1035a7",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-449396cc-7e03-46cf-a8c6-aeab2d1035a7/index.html",
       "slug": "topik-1-membaca/langkah-1:-keluar-dari-situs-asli",
       "order": 1,
@@ -193,14 +193,14 @@
       "description": "Dalam praktik literasi digital, penting untuk tidak hanya terpaku pada satu halaman atau situs web. Verifikasi informasi perlu dilakukan dengan menelusuri sumber lain yang kredibel dan independen. Te",
       "metadata": {
         "created": 1747107835,
-        "updated": 1747313876,
+        "updated": 1747754402,
         "images": {},
         "videos": {},
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "readtime": 2,
+        "readtime": 1,
         "files": [
           {
             "path": "/home/andyyulianto77/literasi_digital/files/keluar-lateral.png",
