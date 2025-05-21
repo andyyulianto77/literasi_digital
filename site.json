@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1743816556,
-      "updated": 1747787311,
+      "updated": 1747787432,
       "git": {
         "vendor": "github",
         "branch": "gh-pages",
@@ -35,9 +35,9 @@
       "static": {}
     },
     "theme": {
-      "element": "clean-portfolio-theme",
-      "path": "@haxtheweb/clean-portfolio-theme/clean-portfolio-theme.js",
-      "name": "Clean Portfolio theme",
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean two theme",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
