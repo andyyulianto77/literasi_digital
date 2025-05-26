@@ -16,5 +16,9 @@
     "ghpages:build": "rm assets/babel* && rm build && rm wc-registry.json",
     "dev": "npx @haxtheweb/haxcms-nodejs",
     "dev-theme": "cd custom && npm start"
+  },
+  "dependencies": {
+    "@haxtheweb/haxcms-nodejs": "^10.0.6",
+    "npx": "^10.2.2"
   }
 }

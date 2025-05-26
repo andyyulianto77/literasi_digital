@@ -44,8 +44,8 @@
         "imageAlt": null,
         "imageLink": null,
         "hexCode": null,
-        "cssVariable": "--simple-colors-default-theme-null-7",
-        "icon": null
+        "cssVariable": "--simple-colors-default-theme-lime-7",
+        "icon": "icons:gesture"
       },
       "regions": {}
     },

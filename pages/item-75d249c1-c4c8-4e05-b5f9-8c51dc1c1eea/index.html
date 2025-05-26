@@ -1,0 +1,294 @@
+
+
+    <div class="particles-container" id="particles-container"></div>
+    
+    <div class="era-icon early-icon" id="early-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#c19a49" d="M50 10L20 40h60L50 10zm0 10l15 15H35l15-15z"/>
+            <path fill="#c19a49" d="M30 45v40h40V45H30zm20 30c-5.5 0-10-4.5-10-10s4.5-10 10-10 10 4.5 10 10-4.5 10-10 10z"/>
+        </svg>
+    </div>
+    
+    <div class="era-icon classical-icon" id="classical-icon">
+        <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <rect x="20" y="60" width="60" height="30" fill="#4974c1" stroke="#b3d4f5" stroke-width="3"/>
+            <rect x="25" y="55" width="50" height="5" fill="#4974c1" stroke="#b3d4f5" stroke-width="2"/>
+            <rect x="30" y="10" width="40" height="45" fill="#4974c1" stroke="#b3d4f5" stroke-width="3"/>
+            <line x1="35" y1="10" x2="35" y2="55" stroke="#b3d4f5" stroke-width="2"/>
+            <line x1="50" y1="10" x2="50" y2="55" stroke="#b3d4f5" stroke-width="2"/>
+            <line x1="65" y1="10" x2="65" y2="55" stroke="#b3d4f5" stroke-width="2"/>
+        </svg>
+    </div>
+
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-amber-900 mb-4">Scientific Discoveries of Ancient Civilizations</h1>
+            <p class="text-xl text-amber-800">Explore the remarkable scientific achievements from 3000 BCE to 500 CE</p>
+        </header>
+        
+        <div class="timeline-navigation">
+            <button class="era-nav-btn active" data-era="all" data-color="#8B4513">All Eras</button>
+            <button class="era-nav-btn" data-era="early" data-color="#c19a49">Early Bronze Age (3000-2000 BCE)</button>
+            <button class="era-nav-btn" data-era="classical" data-color="#4974c1">Classical Era (500 BCE-500 CE)</button>
+        </div>
+        
+        <div class="timeline-container">
+            <div class="timeline-wrapper">
+                <div class="timeline" id="timeline">
+                    <div class="timeline-era">
+                        <h2 class="era-title">Early Bronze Age (3000-2000 BCE)</h2>
+                    </div>
+                    
+                    <!-- Egypt 3000 BCE -->
+                    <div class="timeline-item" data-era="early">
+                        <div class="timeline-marker" data-id="egypt-3000"></div>
+                        <div class="timeline-content left egypt">
+                            <div class="card-header" data-id="egypt-3000">
+                                <div class="civilization-icon">
+                                    <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="#c19a49" d="M32 4L8 28h48L32 4zm0 8l12 12H20l12-12z"/>
+                                        <path fill="#c19a49" d="M16 30v30h32V30H16zm16 24c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"/>
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold">Egyptian Calendar & Mathematics</h3>
+                                <div class="expand-btn ml-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="timeline-date">c. 3000 BCE</div>
+                            <div class="card-content" id="egypt-3000-content">
+                                <div class="mt-4">
+                                    <svg class="illustration" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="50" y="40" width="300" height="120" fill="#f9efd4" stroke="#c19a49" stroke-width="3"/>
+                                        <line x1="50" y1="70" x2="350" y2="70" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="100" y1="40" x2="100" y2="160" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="150" y1="40" x2="150" y2="160" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="200" y1="40" x2="200" y2="160" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="250" y1="40" x2="250" y2="160" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="300" y1="40" x2="300" y2="160" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="50" y1="100" x2="350" y2="100" stroke="#c19a49" stroke-width="2"/>
+                                        <line x1="50" y1="130" x2="350" y2="130" stroke="#c19a49" stroke-width="2"/>
+                                        <text x="65" y="60" font-family="serif" font-size="12" fill="#8B4513">Akhet</text>
+                                        <text x="215" y="60" font-family="serif" font-size="12" fill="#8B4513">Peret</text>
+                                        <text x="315" y="60" font-family="serif" font-size="12" fill="#8B4513">Shemu</text>
+                                        <text x="75" y="90" font-family="serif" font-size="10" fill="#8B4513">1</text>
+                                        <text x="125" y="90" font-family="serif" font-size="10" fill="#8B4513">2</text>
+                                        <text x="175" y="90" font-family="serif" font-size="10" fill="#8B4513">3</text>
+                                        <text x="225" y="90" font-family="serif" font-size="10" fill="#8B4513">4</text>
+                                        <text x="275" y="90" font-family="serif" font-size="10" fill="#8B4513">5</text>
+                                        <text x="325" y="90" font-family="serif" font-size="10" fill="#8B4513">6</text>
+                                    </svg>
+                                    <p class="mt-2">Ancient Egyptians developed one of the first solar calendars with 365 days, divided into three seasons of four months each, with 30 days per month plus 5 additional days. This calendar was remarkably accurate and helped predict the annual flooding of the Nile.</p>
+                                    <p class="mt-2">They also developed sophisticated mathematics for practical purposes, including:</p>
+                                    <ul class="list-disc pl-5 mt-2">
+                                        <li>A decimal system based on powers of 10</li>
+                                        <li>Addition and subtraction operations</li>
+                                        <li>Multiplication by doubling</li>
+                                        <li>Division by repeated subtraction</li>
+                                        <li>Unit fractions (written with a special notation)</li>
+                                    </ul>
+                                    <p class="mt-2">These mathematical innovations were crucial for architecture, land surveying after Nile floods, and tax collection.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Babylon 2400 BCE -->
+                    <div class="timeline-item" data-era="early">
+                        <div class="timeline-marker" data-id="babylon-2400"></div>
+                        <div class="timeline-content right babylon">
+                            <div class="card-header" data-id="babylon-2400">
+                                <div class="civilization-icon">
+                                    <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="#7849c1" d="M32 4L10 20v40h44V20L32 4zm0 8l12 8H20l12-8z"/>
+                                        <rect x="24" y="36" width="16" height="24" fill="#7849c1"/>
+                                        <rect x="28" y="40" width="8" height="8" fill="#e4d4f9"/>
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold">Babylonian Astronomy</h3>
+                                <div class="expand-btn ml-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="timeline-date">c. 2400 BCE</div>
+                            <div class="card-content" id="babylon-2400-content">
+                                <div class="mt-4">
+                                    <svg class="illustration" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="200" cy="100" r="80" fill="#e4d4f9" stroke="#7849c1" stroke-width="2"/>
+                                        <circle cx="200" cy="100" r="60" fill="none" stroke="#7849c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <circle cx="200" cy="100" r="40" fill="none" stroke="#7849c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <circle cx="200" cy="100" r="20" fill="none" stroke="#7849c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <circle cx="260" cy="100" r="10" fill="#f9d4d4"/>
+                                        <circle cx="140" cy="100" r="15" fill="#d4e6f9"/>
+                                        <circle cx="200" cy="40" r="8" fill="#f5deb3"/>
+                                        <circle cx="200" cy="160" r="5" fill="#d4f9d9"/>
+                                        <path d="M200 20 L205 30 L195 30 Z" fill="#7849c1"/>
+                                        <path d="M200 180 L205 170 L195 170 Z" fill="#7849c1"/>
+                                        <path d="M120 100 L130 105 L130 95 Z" fill="#7849c1"/>
+                                        <path d="M280 100 L270 105 L270 95 Z" fill="#7849c1"/>
+                                        <text x="270" y="95" font-family="serif" font-size="10" fill="#7849c1">Sun</text>
+                                        <text x="125" y="95" font-family="serif" font-size="10" fill="#7849c1">Moon</text>
+                                        <text x="205" y="45" font-family="serif" font-size="10" fill="#7849c1">Venus</text>
+                                    </svg>
+                                    <p class="mt-2">Babylonian astronomers were the first to develop systematic observations of the night sky. They created detailed records of celestial events and recognized patterns in the movements of stars and planets.</p>
+                                    <p class="mt-2">Key achievements included:</p>
+                                    <ul class="list-disc pl-5 mt-2">
+                                        <li>Identification of the five visible planets (Mercury, Venus, Mars, Jupiter, and Saturn)</li>
+                                        <li>Development of the zodiac system dividing the ecliptic into 12 equal parts</li>
+                                        <li>Creation of the first star catalogs</li>
+                                        <li>Recognition of the periodic nature of lunar eclipses</li>
+                                    </ul>
+                                    <p class="mt-2">Their observations were recorded on clay tablets using cuneiform script, many of which have survived to the present day, providing valuable insights into their astronomical knowledge.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="timeline-era">
+                        <h2 class="era-title">Classical Era (500 BCE-500 CE)</h2>
+                    </div>
+                    
+                    <!-- Greece 300 BCE -->
+                    <div class="timeline-item" data-era="classical">
+                        <div class="timeline-marker" data-id="greece-300"></div>
+                        <div class="timeline-content right greece">
+                            <div class="card-header" data-id="greece-300">
+                                <div class="civilization-icon">
+                                    <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="12" y="40" width="40" height="16" fill="#d4e6f9" stroke="#4974c1" stroke-width="2"/>
+                                        <rect x="16" y="36" width="32" height="4" fill="#d4e6f9" stroke="#4974c1" stroke-width="2"/>
+                                        <rect x="20" y="8" width="24" height="28" fill="#d4e6f9" stroke="#4974c1" stroke-width="2"/>
+                                        <line x1="24" y1="8" x2="24" y2="36" stroke="#4974c1" stroke-width="2"/>
+                                        <line x1="32" y1="8" x2="32" y2="36" stroke="#4974c1" stroke-width="2"/>
+                                        <line x1="40" y1="8" x2="40" y2="36" stroke="#4974c1" stroke-width="2"/>
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold">Greek Mathematics & Geometry</h3>
+                                <div class="expand-btn ml-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="timeline-date">c. 300 BCE</div>
+                            <div class="card-content" id="greece-300-content">
+                                <div class="mt-4">
+                                    <svg class="illustration" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+                                        <circle cx="100" cy="100" r="50" fill="none" stroke="#4974c1" stroke-width="2"/>
+                                        <line x1="100" y1="50" x2="100" y2="150" stroke="#4974c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <line x1="50" y1="100" x2="150" y2="100" stroke="#4974c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <path d="M100 100 L150 100 A50 50 0 0 0 100 50 Z" fill="#d4e6f9" fill-opacity="0.5" stroke="#4974c1" stroke-width="1"/>
+                                        <text x="115" y="80" font-family="serif" font-size="10" fill="#4974c1">θ</text>
+                                        <text x="90" y="70" font-family="serif" font-size="10" fill="#4974c1">r</text>
+                                        <line x1="100" y1="100" x2="135" y2="65" stroke="#4974c1" stroke-width="1"/>
+                                        <text x="120" y="70" font-family="serif" font-size="10" fill="#4974c1">r</text>
+                                        
+                                        <polygon points="250,50 300,150 200,150" fill="none" stroke="#4974c1" stroke-width="2"/>
+                                        <line x1="250" y1="50" x2="250" y2="150" stroke="#4974c1" stroke-width="1" stroke-dasharray="4,2"/>
+                                        <text x="240" y="100" font-family="serif" font-size="10" fill="#4974c1">h</text>
+                                        <text x="245" y="155" font-family="serif" font-size="10" fill="#4974c1">b</text>
+                                        <text x="270" y="70" font-family="serif" font-size="10" fill="#4974c1">A = ½bh</text>
+                                        
+                                        <rect x="320" y="70" width="60" height="60" fill="none" stroke="#4974c1" stroke-width="2"/>
+                                        <text x="345" y="65" font-family="serif" font-size="10" fill="#4974c1">a</text>
+                                        <text x="385" y="100" font-family="serif" font-size="10" fill="#4974c1">a</text>
+                                        <text x="340" y="100" font-family="serif" font-size="10" fill="#4974c1">A = a²</text>
+                                    </svg>
+                                    <p class="mt-2">Ancient Greek mathematicians transformed mathematics from a practical tool into a rigorous, deductive science. Euclid's "Elements" (c. 300 BCE) established geometry as an axiomatic system and remained the standard textbook for over 2,000 years.</p>
+                                    <p class="mt-2">Major mathematical achievements included:</p>
+                                    <ul class="list-disc pl-5 mt-2">
+                                        <li>Development of formal mathematical proof</li>
+                                        <li>Pythagorean theorem and its applications</li>
+                                        <li>Study of conic sections by Apollonius</li>
+                                        <li>Archimedes' calculation of π and development of integral calculus concepts</li>
+                                        <li>Eratosthenes' measurement of Earth's circumference</li>
+                                        <li>Development of number theory and the concept of prime numbers</li>
+                                    </ul>
+                                    <p class="mt-2">Greek mathematics emphasized logical reasoning and abstract thinking, establishing the foundation for modern mathematical approaches. Their work on geometry, number theory, and mathematical physics continues to influence science today.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Rome 100 CE -->
+                    <div class="timeline-item" data-era="classical">
+                        <div class="timeline-marker" data-id="rome-100"></div>
+                        <div class="timeline-content left rome">
+                            <div class="card-header" data-id="rome-100">
+                                <div class="civilization-icon">
+                                    <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                                        <rect x="8" y="40" width="48" height="16" fill="#f9d4d4" stroke="#c14949" stroke-width="2"/>
+                                        <rect x="12" y="36" width="40" height="4" fill="#f9d4d4" stroke="#c14949" stroke-width="2"/>
+                                        <rect x="16" y="8" width="32" height="28" fill="#f9d4d4" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M16 8 C24 16, 40 16, 48 8" fill="none" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M16 16 C24 24, 40 24, 48 16" fill="none" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M16 24 C24 32, 40 32, 48 24" fill="none" stroke="#c14949" stroke-width="2"/>
+                                    </svg>
+                                </div>
+                                <h3 class="text-xl font-bold">Roman Engineering & Architecture</h3>
+                                <div class="expand-btn ml-2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="timeline-date">c. 100 CE</div>
+                            <div class="card-content" id="rome-100-content">
+                                <div class="mt-4">
+                                    <svg class="illustration" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M50 150 L350 150 L350 130 L50 130 Z" fill="#f9d4d4" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M70 130 L70 80 L90 60 L310 60 L330 80 L330 130" fill="none" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M70 130 A130 130 0 0 1 330 130" fill="none" stroke="#c14949" stroke-width="2" stroke-dasharray="5,3"/>
+                                        <path d="M90 130 L90 90 L100 80 L300 80 L310 90 L310 130" fill="none" stroke="#c14949" stroke-width="1"/>
+                                        <rect x="150" y="100" width="100" height="30" fill="#f9d4d4" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="150" y1="110" x2="250" y2="110" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="150" y1="120" x2="250" y2="120" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="170" y1="100" x2="170" y2="130" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="190" y1="100" x2="190" y2="130" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="210" y1="100" x2="210" y2="130" stroke="#c14949" stroke-width="1"/>
+                                        <line x1="230" y1="100" x2="230" y2="130" stroke="#c14949" stroke-width="1"/>
+                                        <path d="M120 150 L120 130 L140 130 L140 150" fill="none" stroke="#c14949" stroke-width="2"/>
+                                        <path d="M260 150 L260 130 L280 130 L280 150" fill="none" stroke="#c14949" stroke-width="2"/>
+                                        <text x="180" y="70" font-family="serif" font-size="10" fill="#c14949">Arch</text>
+                                        <text x="120" y="170" font-family="serif" font-size="10" fill="#c14949">Column</text>
+                                        <text x="200" y="170" font-family="serif" font-size="10" fill="#c14949">Concrete</text>
+                                    </svg>
+                                    <p class="mt-2">Roman engineers revolutionized construction techniques, creating structures that have lasted for millennia. Their scientific approach to building combined practical knowledge with mathematical principles.</p>
+                                    <p class="mt-2">Key engineering innovations included:</p>
+                                    <ul class="list-disc pl-5 mt-2">
+                                        <li>Development of hydraulic concrete that could set underwater</li>
+                                        <li>Perfection of the arch, vault, and dome for spanning large spaces</li>
+                                        <li>Construction of aqueducts using precise gradient calculations</li>
+                                        <li>Creation of sophisticated heating systems (hypocausts)</li>
+                                        <li>Development of road-building techniques with multiple layers</li>
+                                        <li>Advanced urban planning with sewage systems and public facilities</li>
+                                    </ul>
+                                    <p class="mt-2">The Pantheon in Rome, with its 43.3-meter unreinforced concrete dome, remains one of the greatest engineering feats of the ancient world. Roman engineers understood the principles of load distribution, material properties, and structural stability in ways that wouldn't be surpassed for over a millennium.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="sound-control" id="sound-control">
+        <button id="toggle-sound">
+            <svg class="sound-on" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+            </svg>
+            <svg class="sound-off" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                <line x1="23" y1="9" x2="17" y2="15"></line>
+                <line x1="17" y1="9" x2="23" y2="15"></line>
+            </svg>
+        </button>
+    </div>
+
